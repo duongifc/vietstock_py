@@ -1,0 +1,4578 @@
+﻿[
+    {
+        "cell": [
+            624,
+            "AAA",
+            "VN000000AAA4",
+            "BBG000BB42R4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nh\u1ef1a v\u00e0 M\u00f4i tr\u01b0\u1eddng Xanh An Ph\u00e1t",
+            "83.599.988,00",
+            "83.599.988,00",
+            "06/10/2016"
+        ],
+        "id": 624
+    },
+    {
+        "cell": [
+            147,
+            "AAM",
+            "VN000000AAM9",
+            "BBG000PDD0V4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y s\u1ea3n Mekong",
+            "12.635.840,00",
+            "9.935.701,00",
+            "13/07/2009"
+        ],
+        "id": 147
+    },
+    {
+        "cell": [
+            46,
+            "ABT",
+            "VN000000ABT2",
+            "BBG000QMW140",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u Th\u1ee7y s\u1ea3n B\u1ebfn Tre",
+            "14.107.207,00",
+            "11.497.257,00",
+            "12/06/2006"
+        ],
+        "id": 46
+    },
+    {
+        "cell": [
+            332,
+            "ACC",
+            "VN000000ACC6",
+            "BBG000Q0SR00",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u00ea t\u00f4ng BECAMEX",
+            "10.000.000,00",
+            "10.000.000,00",
+            "17/06/2011"
+        ],
+        "id": 332
+    },
+    {
+        "cell": [
+            126,
+            "ACL",
+            "VN000000ACL7",
+            "BBG000SW6J73",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t Nh\u1eadp Kh\u1ea9u Th\u1ee7y s\u1ea3n C\u1eedu Long An Giang",
+            "22.799.675,00",
+            "22.799.675,00",
+            "23/08/2007"
+        ],
+        "id": 126
+    },
+    {
+        "cell": [
+            613,
+            "ADS",
+            "VN000000ADS0",
+            "BBG00D60X6Z6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Damsan",
+            "25.517.801,00",
+            "25.517.801,00",
+            "22/06/2016"
+        ],
+        "id": 613
+    },
+    {
+        "cell": [
+            66,
+            "AGF",
+            "VN000000AGF0",
+            "BBG000MC1VC5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u Th\u1ee7y s\u1ea3n An Giang",
+            "28.109.743,00",
+            "28.109.743,00",
+            "26/04/2002"
+        ],
+        "id": 66
+    },
+    {
+        "cell": [
+            339,
+            "AGM",
+            "VN000000AGM6",
+            "BBG003NWY9K8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t Nh\u1eadp Kh\u1ea9u An Giang",
+            "18.200.000,00",
+            "18.200.000,00",
+            "14/09/2012"
+        ],
+        "id": 339
+    },
+    {
+        "cell": [
+            213,
+            "AGR",
+            "VN000000AGR5",
+            "BBG000PZH6N7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n Ng\u00e2n h\u00e0ng N\u00f4ng nghi\u1ec7p v\u00e0 Ph\u00e1t tri\u1ec3n N\u00f4ng th\u00f4n Vi\u1ec7t Nam",
+            "212.000.000,00",
+            "211.199.953,00",
+            "02/12/2009"
+        ],
+        "id": 213
+    },
+    {
+        "cell": [
+            586,
+            "AMD",
+            "VN000000AMD3",
+            "BBG007GTX408",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Kho\u00e1ng s\u1ea3n FLC AMD",
+            "163.504.874,00",
+            "163.504.874,00",
+            "08/06/2015"
+        ],
+        "id": 586
+    },
+    {
+        "cell": [
+            94,
+            "ANV",
+            "VN000000ANV3",
+            "BBG000P3VMH4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nam Vi\u1ec7t",
+            "125.044.625,00",
+            "124.649.875,00",
+            "28/11/2007"
+        ],
+        "id": 94
+    },
+    {
+        "cell": [
+            170,
+            "APC",
+            "VN000000APC8",
+            "BBG000Q921W1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Chi\u1ebfu x\u1ea1 An Ph\u00fa",
+            "12.020.400,00",
+            "11.804.030,00",
+            "22/01/2010"
+        ],
+        "id": 170
+    },
+    {
+        "cell": [
+            623,
+            "APG",
+            "VN000000APG9",
+            "BBG000D4JBN6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n An Ph\u00e1t",
+            "13.528.900,00",
+            "13.528.900,00",
+            "23/09/2016"
+        ],
+        "id": 623
+    },
+    {
+        "cell": [
+            206,
+            "ASM",
+            "VN000000ASM1",
+            "BBG0014KNPM3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Sao Mai",
+            "241.933.853,00",
+            "241.933.853,00",
+            "24/12/2009"
+        ],
+        "id": 206
+    },
+    {
+        "cell": [
+            154,
+            "ASP",
+            "VN000000ASP4",
+            "BBG000VBSQK0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n D\u1ea7u kh\u00ed An Pha",
+            "37.339.929,00",
+            "37.339.542,00",
+            "01/02/2008"
+        ],
+        "id": 154
+    },
+    {
+        "cell": [
+            694,
+            "AST",
+            "VN000000AST6",
+            "BBG00JM8H178",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 H\u00e0ng kh\u00f4ng Taseco",
+            "36.000.000,00",
+            "36.000.000,00",
+            "26/12/2017"
+        ],
+        "id": 694
+    },
+    {
+        "cell": [
+            618,
+            "ATG",
+            "VN000000ATG1",
+            "BBG00DKQJNP3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n An Tr\u01b0\u1eddng An",
+            "15.220.000,00",
+            "15.220.000,00",
+            "10/08/2016"
+        ],
+        "id": 618
+    },
+    {
+        "cell": [
+            83,
+            "BBC",
+            "VN000000BBC6",
+            "BBG000M98XM0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n BIBICA",
+            "15.420.782,00",
+            "15.420.782,00",
+            "17/12/2001"
+        ],
+        "id": 83
+    },
+    {
+        "cell": [
+            231,
+            "BCE",
+            "VN000000BCE0",
+            "BBG000R2F295",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng v\u00e0 Giao th\u00f4ng B\u00ecnh D\u01b0\u01a1ng",
+            "30.000.000,00",
+            "30.000.000,00",
+            "15/06/2010"
+        ],
+        "id": 231
+    },
+    {
+        "cell": [
+            592,
+            "BCG",
+            "VN000000BCG5",
+            "BBG009L07188",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Bamboo Capital",
+            "108.005.760,00",
+            "108.005.760,00",
+            "08/07/2015"
+        ],
+        "id": 592
+    },
+    {
+        "cell": [
+            594,
+            "BFC",
+            "VN000000BFC7",
+            "BBG0017Z0D76",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n",
+            "57.167.993,00",
+            "57.167.993,00",
+            "27/08/2015"
+        ],
+        "id": 594
+    },
+    {
+        "cell": [
+            640,
+            "BHN",
+            "VN000000BHN0",
+            "BBG00F335DJ2",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n Bia \u2013 R\u01b0\u1ee3u \u2013 N\u01b0\u1edbc gi\u1ea3i kh\u00e1t H\u00e0 N\u1ed9i",
+            "231.800.000,00",
+            "231.800.000,00",
+            "30/12/2016"
+        ],
+        "id": 640
+    },
+    {
+        "cell": [
+            328,
+            "BIC",
+            "VN000000BIC1",
+            "BBG001YSZ884",
+            "T\u1ed5ng C\u00f4ng ty B\u1ea3o hi\u1ec3m Ng\u00e2n h\u00e0ng \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n Vi\u1ec7t Nam",
+            "117.276.895,00",
+            "117.276.895,00",
+            "20/06/2011"
+        ],
+        "id": 328
+    },
+    {
+        "cell": [
+            559,
+            "BID",
+            "VN000000BID9",
+            "BBG002CV4JP0",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n Vi\u1ec7t Nam",
+            "3.418.715.334,00",
+            "3.418.715.334,00",
+            "16/01/2014"
+        ],
+        "id": 559
+    },
+    {
+        "cell": [
+            7,
+            "BMC",
+            "VN000000BMC3",
+            "BBG000QMW3B8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kho\u00e1ng s\u1ea3n B\u00ecnh \u0110\u1ecbnh",
+            "12.392.630,00",
+            "12.392.630,00",
+            "12/12/2006"
+        ],
+        "id": 7
+    },
+    {
+        "cell": [
+            277,
+            "BMI",
+            "VN000000BMI0",
+            "BBG000QFQKS4",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ea3o Minh",
+            "91.354.037,00",
+            "91.354.037,00",
+            "11/04/2008"
+        ],
+        "id": 277
+    },
+    {
+        "cell": [
+            129,
+            "BMP",
+            "VN000000BMP5",
+            "BBG000PV15F4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nh\u1ef1a B\u00ecnh Minh",
+            "81.860.938,00",
+            "81.860.938,00",
+            "12/06/2006"
+        ],
+        "id": 129
+    },
+    {
+        "cell": [
+            302,
+            "BRC",
+            "VN000000BRC2",
+            "BBG0029S6WT6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su B\u1ebfn Th\u00e0nh",
+            "12.374.997,00",
+            "12.374.997,00",
+            "27/10/2011"
+        ],
+        "id": 302
+    },
+    {
+        "cell": [
+            345,
+            "BSI",
+            "VN000000BSI7",
+            "BBG001WRYLB6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n Ng\u00e2n h\u00e0ng \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n Vi\u1ec7t Nam",
+            "107.637.435,00",
+            "107.632.286,00",
+            "13/07/2011"
+        ],
+        "id": 345
+    },
+    {
+        "cell": [
+            217,
+            "BTP",
+            "VN000000BTP0",
+            "BBG000D2C0D2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nhi\u1ec7t \u0111i\u1ec7n B\u00e0 R\u1ecba",
+            "60.485.600,00",
+            "60.485.600,00",
+            "17/11/2009"
+        ],
+        "id": 217
+    },
+    {
+        "cell": [
+            246,
+            "BTT",
+            "VN000000BTT2",
+            "BBG000QK8WN2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u01b0\u01a1ng m\u1ea1i \u2013 D\u1ecbch v\u1ee5 B\u1ebfn Th\u00e0nh",
+            "13.500.000,00",
+            "13.500.000,00",
+            "04/03/2010"
+        ],
+        "id": 246
+    },
+    {
+        "cell": [
+            226,
+            "BVH",
+            "VN000000BVH3",
+            "BBG000N1D3C7",
+            "T\u1eadp \u0111o\u00e0n B\u1ea3o Vi\u1ec7t",
+            "680.471.434,00",
+            "680.471.434,00",
+            "16/06/2009"
+        ],
+        "id": 226
+    },
+    {
+        "cell": [
+            673,
+            "BWE",
+            "VN000000BWE8",
+            "BBG00H3MN8Z9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n N\u01b0\u1edbc \u2013 M\u00f4i tr\u01b0\u1eddng B\u00ecnh D\u01b0\u01a1ng",
+            "150.000.000,00",
+            "150.000.000,00",
+            "05/07/2017"
+        ],
+        "id": 673
+    },
+    {
+        "cell": [
+            335,
+            "C32",
+            "VN000000C325",
+            "BBG00161YQ67",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 X\u00e2y d\u1ef1ng 3-2",
+            "13.663.992,00",
+            "13.663.992,00",
+            "06/09/2012"
+        ],
+        "id": 335
+    },
+    {
+        "cell": [
+            317,
+            "C47",
+            "VN000000C473",
+            "BBG001LQT7H1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng 47",
+            "17.020.130,00",
+            "17.020.130,00",
+            "21/03/2011"
+        ],
+        "id": 317
+    },
+    {
+        "cell": [
+            573,
+            "CAV",
+            "VN000000CAV6",
+            "BBG007GFJDV0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u00e2y c\u00e1p \u0111i\u1ec7n Vi\u1ec7t Nam",
+            "57.600.000,00",
+            "57.600.000,00",
+            "28/10/2014"
+        ],
+        "id": 573
+    },
+    {
+        "cell": [
+            254,
+            "CCI",
+            "VN000000CCI9",
+            "BBG000QQTLJ5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p Th\u01b0\u01a1ng m\u1ea1i C\u1ee7 Chi",
+            "17.743.865,00",
+            "17.541.105,00",
+            "07/04/2010"
+        ],
+        "id": 254
+    },
+    {
+        "cell": [
+            241,
+            "CCL",
+            "VN000000CCL3",
+            "BBG001J682G3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb D\u1ea7u kh\u00ed C\u1eedu Long",
+            "35.499.885,00",
+            "47.499.885,00",
+            "21/01/2011"
+        ],
+        "id": 241
+    },
+    {
+        "cell": [
+            282,
+            "CDC",
+            "VN000000CDC0",
+            "BBG000TS9159",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u01b0\u01a1ng D\u01b0\u01a1ng",
+            "15.706.406,00",
+            "15.706.406,00",
+            "27/08/2010"
+        ],
+        "id": 282
+    },
+    {
+        "cell": [
+            584,
+            "CDO",
+            "VN000000CDO5",
+            "BBG00800TK50",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u01b0 v\u1ea5n Thi\u1ebft k\u1ebf v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb",
+            "31.504.975,00",
+            "31.504.975,00",
+            "24/02/2015"
+        ],
+        "id": 584
+    },
+    {
+        "cell": [
+            655,
+            "CEE",
+            "VN000000CEE4",
+            "BBG00GNRW2L6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng H\u1ea1 t\u1ea7ng CII",
+            "41.500.000,00",
+            "41.500.000,00",
+            "08/05/2017"
+        ],
+        "id": 655
+    },
+    {
+        "cell": [
+            616,
+            "CHP",
+            "VN000000CHP3",
+            "BBG000QR8VJ4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n Mi\u1ec1n Trung",
+            "125.999.511,00",
+            "125.999.511,00",
+            "10/08/2016"
+        ],
+        "id": 616
+    },
+    {
+        "cell": [
+            334,
+            "CIG",
+            "VN000000CIG0",
+            "BBG001VHQTV9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n COMA18",
+            "31.539.947,00",
+            "31.539.947,00",
+            "01/07/2011"
+        ],
+        "id": 334
+    },
+    {
+        "cell": [
+            31,
+            "CII",
+            "VN000000CII6",
+            "BBG000PM3W81",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt TP.HCM",
+            "279.806.415,00",
+            "246.244.905,00",
+            "24/02/2006"
+        ],
+        "id": 31
+    },
+    {
+        "cell": [
+            63,
+            "CLC",
+            "VN000000CLC3",
+            "BBG000PT3N95",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00e1t L\u1ee3i",
+            "19.655.668,00",
+            "19.655.668,00",
+            "18/10/2006"
+        ],
+        "id": 63
+    },
+    {
+        "cell": [
+            281,
+            "CLG",
+            "VN000000CLG4",
+            "BBG0014F22X6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n Nh\u00e0 \u0111\u1ea5t COTEC",
+            "21.150.000,00",
+            "21.150.000,00",
+            "30/07/2010"
+        ],
+        "id": 281
+    },
+    {
+        "cell": [
+            561,
+            "CLL",
+            "VN000000CLL4",
+            "BBG005S5V9Z4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u1ea3ng C\u00e1t L\u00e1i",
+            "34.000.000,00",
+            "34.000.000,00",
+            "19/05/2014"
+        ],
+        "id": 561
+    },
+    {
+        "cell": [
+            316,
+            "CLW",
+            "VN000000CLW1",
+            "BBG001CW14L0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u1ea5p n\u01b0\u1edbc Ch\u1ee3 L\u1edbn",
+            "13.000.000,00",
+            "13.000.000,00",
+            "20/10/2010"
+        ],
+        "id": 316
+    },
+    {
+        "cell": [
+            200,
+            "CMG",
+            "VN000000CMG2",
+            "BBG000Q6C4X9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n C\u00f4ng ngh\u1ec7 CMC",
+            "67.341.953,00",
+            "67.341.953,00",
+            "13/01/2010"
+        ],
+        "id": 200
+    },
+    {
+        "cell": [
+            208,
+            "CMT",
+            "VN000000CMT5",
+            "BBG000QF86Y8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng ngh\u1ec7 M\u1ea1ng v\u00e0 Truy\u1ec1n th\u00f4ng",
+            "8.000.000,00",
+            "7.283.370,00",
+            "25/01/2010"
+        ],
+        "id": 208
+    },
+    {
+        "cell": [
+            289,
+            "CMV",
+            "VN000000CMV1",
+            "BBG000R2F749",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u01b0\u01a1ng nghi\u1ec7p C\u00e0 Mau",
+            "12.103.912,00",
+            "12.103.912,00",
+            "09/06/2010"
+        ],
+        "id": 289
+    },
+    {
+        "cell": [
+            216,
+            "CMX",
+            "VN000000CMX7",
+            "BBG0018J9MT8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ebf bi\u1ebfn Th\u1ee7y s\u1ea3n v\u00e0 Xu\u1ea5t nh\u1eadp kh\u1ea9u C\u00e0 Mau",
+            "13.221.234,00",
+            "13.221.234,00",
+            "02/11/2010"
+        ],
+        "id": 216
+    },
+    {
+        "cell": [
+            301,
+            "CNG",
+            "VN000000CNG0",
+            "BBG002862FH9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n CNG Vi\u1ec7t Nam",
+            "27.000.000,00",
+            "26.999.673,00",
+            "14/11/2011"
+        ],
+        "id": 301
+    },
+    {
+        "cell": [
+            2,
+            "COM",
+            "VN000000COM6",
+            "BBG000Q07Q78",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadt t\u01b0 - X\u0103ng d\u1ea7u",
+            "14.120.628,00",
+            "14.120.628,00",
+            "12/05/2006"
+        ],
+        "id": 2
+    },
+    {
+        "cell": [
+            193,
+            "CSM",
+            "VN000000CSM7",
+            "BBG000BMBBG4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng nghi\u1ec7p Cao su Mi\u1ec1n Nam",
+            "103.626.467,00",
+            "103.625.262,00",
+            "04/08/2009"
+        ],
+        "id": 193
+    },
+    {
+        "cell": [
+            580,
+            "CSV",
+            "VN000000CSV8",
+            "BBG00560N050",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u00f3a ch\u1ea5t c\u01a1 b\u1ea3n mi\u1ec1n Nam",
+            "44.200.000,00",
+            "44.200.000,00",
+            "24/02/2015"
+        ],
+        "id": 580
+    },
+    {
+        "cell": [
+            214,
+            "CTD",
+            "VN000000CTD4",
+            "BBG000JWQL67",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng COTECCONS",
+            "78.355.000,00",
+            "78.288.344,00",
+            "09/12/2009"
+        ],
+        "id": 214
+    },
+    {
+        "cell": [
+            643,
+            "CTF",
+            "VN000000CTF9",
+            "BBG00GQ45DG6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n City Auto",
+            "18.000.000,00",
+            "18.000.000,00",
+            "11/05/2017"
+        ],
+        "id": 643
+    },
+    {
+        "cell": [
+            192,
+            "CTG",
+            "VN000000CTG7",
+            "BBG000CYF2P3",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam",
+            "3.723.404.556,00",
+            "3.723.404.556,00",
+            "09/07/2009"
+        ],
+        "id": 192
+    },
+    {
+        "cell": [
+            243,
+            "CTI",
+            "VN000000CTI3",
+            "BBG000QD0001",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n C\u01b0\u1eddng Thu\u1eadn IDICO",
+            "62.999.997,00",
+            "62.999.997,00",
+            "10/02/2010"
+        ],
+        "id": 243
+    },
+    {
+        "cell": [
+            668,
+            "CTS",
+            "VN000000CTS2",
+            "BBG000NPLGW4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n Ng\u00e2n h\u00e0ng C\u00f4ng Th\u01b0\u01a1ng Vi\u1ec7t Nam",
+            "97.652.936,00",
+            "97.616.203,00",
+            "13/06/2017"
+        ],
+        "id": 668
+    },
+    {
+        "cell": [
+            678,
+            "CVT",
+            "VN000000CVT6",
+            "BBG000Q9KQS1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n CMC",
+            "28.223.903,00",
+            "28.223.903,00",
+            "25/09/2017"
+        ],
+        "id": 678
+    },
+    {
+        "cell": [
+            196,
+            "D2D",
+            "VN000000D2D0",
+            "BBG000RSQZC9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb C\u00f4ng nghi\u1ec7p s\u1ed1 2",
+            "10.700.000,00",
+            "10.654.984,00",
+            "24/06/2009"
+        ],
+        "id": 196
+    },
+    {
+        "cell": [
+            238,
+            "DAG",
+            "VN000000DAG5",
+            "BBG000QMJMD9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Nh\u1ef1a \u0110\u00f4ng \u00c1",
+            "43.978.691,00",
+            "49.327.885,00",
+            "01/03/2010"
+        ],
+        "id": 238
+    },
+    {
+        "cell": [
+            619,
+            "DAH",
+            "VN000000DAH3",
+            "BBG00DXBD7V6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Kh\u00e1ch s\u1ea1n \u0110\u00f4ng \u00c1",
+            "34.200.000,00",
+            "34.200.000,00",
+            "30/09/2016"
+        ],
+        "id": 619
+    },
+    {
+        "cell": [
+            598,
+            "DAT",
+            "VN000000DAT8",
+            "BBG009LKLCL9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Du l\u1ecbch v\u00e0 Ph\u00e1t tri\u1ec3n Th\u1ee7y s\u1ea3n",
+            "43.814.920,00",
+            "43.814.920,00",
+            "06/10/2015"
+        ],
+        "id": 598
+    },
+    {
+        "cell": [
+            175,
+            "DCL",
+            "VN000000DCL1",
+            "BBG000CTDG48",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u01b0\u1ee3c ph\u1ea9m C\u1eedu Long",
+            "56.832.824,00",
+            "56.832.824,00",
+            "03/09/2008"
+        ],
+        "id": 175
+    },
+    {
+        "cell": [
+            585,
+            "DCM",
+            "VN000000DCM9",
+            "BBG008D1PSP9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e2n b\u00f3n D\u1ea7u kh\u00ed C\u00e0 Mau",
+            "529.400.000,00",
+            "529.400.000,00",
+            "20/03/2015"
+        ],
+        "id": 585
+    },
+    {
+        "cell": [
+            596,
+            "DGW",
+            "VN000000DGW9",
+            "BBG009PTZWQ2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ebf Gi\u1edbi S\u1ed1",
+            "40.751.747,00",
+            "40.600.278,00",
+            "24/07/2015"
+        ],
+        "id": 596
+    },
+    {
+        "cell": [
+            51,
+            "DHA",
+            "VN000000DHA3",
+            "BBG000MC1S96",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u00f3a An",
+            "15.119.946,00",
+            "15.061.213,00",
+            "12/04/2004"
+        ],
+        "id": 51
+    },
+    {
+        "cell": [
+            222,
+            "DHC",
+            "VN000000DHC9",
+            "BBG000NDCKV3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u00f4ng H\u1ea3i B\u1ebfn Tre",
+            "34.459.769,00",
+            "34.459.769,00",
+            "18/06/2009"
+        ],
+        "id": 222
+    },
+    {
+        "cell": [
+            171,
+            "DHG",
+            "VN000000DHG0",
+            "BBG000QKBYX3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u01b0\u1ee3c H\u1eadu Giang",
+            "130.746.071,00",
+            "130.746.071,00",
+            "01/12/2006"
+        ],
+        "id": 171
+    },
+    {
+        "cell": [
+            165,
+            "DHM",
+            "VN000000DHM8",
+            "BBG0036JDQP6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u01b0\u01a1ng m\u1ea1i v\u00e0 Khai th\u00e1c Kho\u00e1ng s\u1ea3n D\u01b0\u01a1ng Hi\u1ebfu",
+            "25.143.123,00",
+            "31.396.180,00",
+            "11/07/2012"
+        ],
+        "id": 165
+    },
+    {
+        "cell": [
+            56,
+            "DIC",
+            "VN000000DIC7",
+            "BBG000QMW4M4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Th\u01b0\u01a1ng m\u1ea1i DIC",
+            "26.585.840,00",
+            "26.084.560,00",
+            "22/11/2006"
+        ],
+        "id": 56
+    },
+    {
+        "cell": [
+            190,
+            "DIG",
+            "VN000000DIG8",
+            "BBG000TW9MF3",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n X\u00e2y d\u1ef1ng",
+            "238.194.819,00",
+            "238.194.819,00",
+            "12/08/2009"
+        ],
+        "id": 190
+    },
+    {
+        "cell": [
+            232,
+            "DLG",
+            "VN000000DLG2",
+            "BBG000R1SL00",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n \u0110\u1ee9c Long Gia Lai",
+            "285.057.815,00",
+            "285.057.815,00",
+            "14/06/2010"
+        ],
+        "id": 232
+    },
+    {
+        "cell": [
+            134,
+            "DMC",
+            "VN000000DMC9",
+            "BBG000QMW7W6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u Y t\u1ebf DOMESCO",
+            "34.727.465,00",
+            "34.727.465,00",
+            "04/12/2006"
+        ],
+        "id": 134
+    },
+    {
+        "cell": [
+            103,
+            "DPM",
+            "VN000000DPM1",
+            "BBG000TSXTT5",
+            "T\u1ed5ng C\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed - C\u00f4ng ty C\u1ed5 ph\u1ea7n",
+            "391.400.000,00",
+            "391.334.260,00",
+            "29/10/2007"
+        ],
+        "id": 103
+    },
+    {
+        "cell": [
+            93,
+            "DPR",
+            "VN000000DPR0",
+            "BBG000TZK061",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su \u0110\u1ed3ng Ph\u00fa",
+            "43.000.000,00",
+            "40.124.790,00",
+            "22/11/2007"
+        ],
+        "id": 93
+    },
+    {
+        "cell": [
+            326,
+            "DQC",
+            "VN000000DQC0",
+            "BBG000VBYTB7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u00f3ng \u0111\u00e8n \u0110i\u1ec7n Quang",
+            "34.359.416,00",
+            "31.258.066,00",
+            "14/02/2008"
+        ],
+        "id": 326
+    },
+    {
+        "cell": [
+            60,
+            "DRC",
+            "VN000000DRC8",
+            "BBG000QN52T9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su \u0110\u00e0 N\u1eb5ng",
+            "118.792.605,00",
+            "118.792.605,00",
+            "28/11/2006"
+        ],
+        "id": 60
+    },
+    {
+        "cell": [
+            236,
+            "DRH",
+            "VN000000DRH7",
+            "BBG000BDM3V3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 C\u0103n Nh\u00e0 M\u01a1 \u01af\u1edbc",
+            "49.000.000,00",
+            "49.000.000,00",
+            "13/07/2010"
+        ],
+        "id": 236
+    },
+    {
+        "cell": [
+            305,
+            "DRL",
+            "VN000000DRL9",
+            "BBG002VQBZ67",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n - \u0110i\u1ec7n l\u1ef1c 3",
+            "9.500.000,00",
+            "9.500.000,00",
+            "30/03/2012"
+        ],
+        "id": 305
+    },
+    {
+        "cell": [
+            275,
+            "DSN",
+            "VN000000DSN3",
+            "BBG00176QLZ3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng vi\u00ean n\u01b0\u1edbc \u0110\u1ea7m Sen",
+            "12.083.009,00",
+            "12.083.009,00",
+            "17/09/2010"
+        ],
+        "id": 275
+    },
+    {
+        "cell": [
+            262,
+            "DTA",
+            "VN000000DTA8",
+            "BBG000BBD4Z1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ec7 Tam",
+            "15.000.000,00",
+            "15.000.000,00",
+            "30/06/2010"
+        ],
+        "id": 262
+    },
+    {
+        "cell": [
+            266,
+            "DTL",
+            "VN000000DTL5",
+            "BBG000QZFN51",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea1i Thi\u00ean L\u1ed9c",
+            "61.435.604,00",
+            "60.630.984,00",
+            "28/05/2010"
+        ],
+        "id": 266
+    },
+    {
+        "cell": [
+            90,
+            "DTT",
+            "VN000000DTT8",
+            "BBG000QMCPM9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n K\u1ef9 ngh\u1ec7 \u0110\u00f4 Th\u00e0nh",
+            "8.151.820,00",
+            "8.151.820,00",
+            "06/12/2006"
+        ],
+        "id": 90
+    },
+    {
+        "cell": [
+            219,
+            "DVP",
+            "VN000000DVP2",
+            "BBG000PXY2N2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n C\u1ea3ng \u0110\u00ecnh V\u0169",
+            "40.000.000,00",
+            "40.000.000,00",
+            "24/11/2009"
+        ],
+        "id": 219
+    },
+    {
+        "cell": [
+            204,
+            "DXG",
+            "VN000000DXG7",
+            "BBG000Q1XBH9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 v\u00e0 X\u00e2y d\u1ef1ng \u0110\u1ecba \u1ed1c \u0110\u1ea5t Xanh",
+            "303.192.686,00",
+            "302.942.630,00",
+            "14/12/2009"
+        ],
+        "id": 204
+    },
+    {
+        "cell": [
+            172,
+            "DXV",
+            "VN000000DXV6",
+            "BBG000BM0Y49",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Vicem V\u1eadt li\u1ec7u X\u00e2y d\u1ef1ng \u0110\u00e0 N\u1eb5ng",
+            "9.900.000,00",
+            "9.900.000,00",
+            "24/01/2008"
+        ],
+        "id": 172
+    },
+    {
+        "cell": [
+            189,
+            "EIB",
+            "VN000000EIB7",
+            "BBG000DB3L28",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n Xu\u1ea5t Nh\u1eadp kh\u1ea9u Vi\u1ec7t Nam",
+            "1.235.522.904,00",
+            "1.229.432.904,00",
+            "20/10/2009"
+        ],
+        "id": 189
+    },
+    {
+        "cell": [
+            279,
+            "ELC",
+            "VN000000ELC9",
+            "BBG00174Z5S1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n C\u00f4ng ngh\u1ec7 \u0110i\u1ec7n t\u1eed - Vi\u1ec5n th\u00f4ng",
+            "50.928.243,00",
+            "50.916.853,00",
+            "05/10/2010"
+        ],
+        "id": 279
+    },
+    {
+        "cell": [
+            348,
+            "EMC",
+            "VN000000EMC7",
+            "BBG003M53VX9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u01a1 \u0111i\u1ec7n Th\u1ee7 \u0110\u1ee9c",
+            "11.473.000,00",
+            "11.473.000,00",
+            "31/08/2012"
+        ],
+        "id": 348
+    },
+    {
+        "cell": [
+            295,
+            "EVE",
+            "VN000000EVE4",
+            "BBG001B06374",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Everpia",
+            "41.979.773,00",
+            "39.547.973,00",
+            "30/11/2010"
+        ],
+        "id": 295
+    },
+    {
+        "cell": [
+            659,
+            "EVG",
+            "VN000000EVG9",
+            "BBG00GTSZQV1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Everland",
+            "30.000.000,00",
+            "30.000.000,00",
+            "26/05/2017"
+        ],
+        "id": 659
+    },
+    {
+        "cell": [
+            337,
+            "FCM",
+            "VN000000FCM4",
+            "BBG004JVFZG1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kho\u00e1ng s\u1ea3n FECON",
+            "41.000.000,00",
+            "41.000.000,00",
+            "08/05/2013"
+        ],
+        "id": 337
+    },
+    {
+        "cell": [
+            306,
+            "FCN",
+            "VN000000FCN2",
+            "BBG0036S09C2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n FECON",
+            "54.352.916,00",
+            "87.352.916,00",
+            "18/07/2012"
+        ],
+        "id": 306
+    },
+    {
+        "cell": [
+            197,
+            "FDC",
+            "VN000000FDC3",
+            "BBG000Q54S85",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ngo\u1ea1i th\u01b0\u01a1ng v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u1ea7u t\u01b0 Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "38.629.988,00",
+            "38.629.988,00",
+            "25/12/2009"
+        ],
+        "id": 197
+    },
+    {
+        "cell": [
+            599,
+            "FIT",
+            "VN000000FIT6",
+            "BBG009RRQXY3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n F.I.T",
+            "254.730.247,00",
+            "254.730.247,00",
+            "07/08/2015"
+        ],
+        "id": 599
+    },
+    {
+        "cell": [
+            307,
+            "FLC",
+            "VN000000FLC6",
+            "BBG0024L5Y77",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n FLC",
+            "682.697.361,00",
+            "682.697.361,00",
+            "29/07/2013"
+        ],
+        "id": 307
+    },
+    {
+        "cell": [
+            35,
+            "FMC",
+            "VN000000FMC4",
+            "BBG000QF0PB9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ef1c ph\u1ea9m Sao Ta",
+            "39.000.000,00",
+            "39.000.000,00",
+            "20/10/2006"
+        ],
+        "id": 35
+    },
+    {
+        "cell": [
+            13,
+            "FPT",
+            "VN000000FPT1",
+            "BBG000PMZKF4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n FPT",
+            "530.961.105,00",
+            "530.878.729,00",
+            "21/11/2006"
+        ],
+        "id": 13
+    },
+    {
+        "cell": [
+            638,
+            "FTM",
+            "VN000000FTM8",
+            "BBG00FRYNP56",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u1ee9c Qu\u00e2n",
+            "50.000.000,00",
+            "50.000.000,00",
+            "16/01/2017"
+        ],
+        "id": 638
+    },
+    {
+        "cell": [
+            635,
+            "FTS",
+            "VN000000FTS5",
+            "BBG00FQJG160",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n FPT",
+            "99.376.952,00",
+            "99.376.575,00",
+            "05/01/2017"
+        ],
+        "id": 635
+    },
+    {
+        "cell": [
+            342,
+            "GAS",
+            "VN000000GAS3",
+            "BBG002YWXH58",
+            "T\u1ed5ng C\u00f4ng ty Kh\u00ed Vi\u1ec7t Nam - C\u00f4ng ty C\u1ed5 ph\u1ea7n",
+            "1.913.950.000,00",
+            "1.913.950.000,00",
+            "27/04/2012"
+        ],
+        "id": 342
+    },
+    {
+        "cell": [
+            151,
+            "GDT",
+            "VN000000GDT5",
+            "BBG0014KNPB5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ebf bi\u1ebfn G\u1ed7 \u0110\u1ee9c Th\u00e0nh",
+            "14.909.460,00",
+            "14.855.850,00",
+            "03/11/2009"
+        ],
+        "id": 151
+    },
+    {
+        "cell": [
+            697,
+            "GEX",
+            "VN000000GEX5",
+            "BBG00B8G4SB3",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n Thi\u1ebft b\u1ecb \u0111i\u1ec7n Vi\u1ec7t Nam",
+            "266.800.000,00",
+            "266.800.000,00",
+            "28/12/2017"
+        ],
+        "id": 697
+    },
+    {
+        "cell": [
+            11,
+            "GIL",
+            "VN000000GIL1",
+            "BBG000BTBGW0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1ea3n xu\u1ea5t Kinh doanh Xu\u1ea5t nh\u1eadp kh\u1ea9u B\u00ecnh Th\u1ea1nh",
+            "13.924.588,00",
+            "13.885.908,00",
+            "28/12/2001"
+        ],
+        "id": 11
+    },
+    {
+        "cell": [
+            131,
+            "GMC",
+            "VN000000GMC2",
+            "BBG000QMCRB7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1ea3n xu\u1ea5t Th\u01b0\u01a1ng m\u1ea1i May S\u00e0i G\u00f2n",
+            "15.555.620,00",
+            "15.506.360,00",
+            "06/12/2006"
+        ],
+        "id": 131
+    },
+    {
+        "cell": [
+            65,
+            "GMD",
+            "VN000000GMD0",
+            "BBG000MB9VF6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n GEMADEPT",
+            "288.276.957,00",
+            "288.276.957,00",
+            "08/03/2002"
+        ],
+        "id": 65
+    },
+    {
+        "cell": [
+            346,
+            "GSP",
+            "VN000000GSP1",
+            "BBG002MZL6Z8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i S\u1ea3n ph\u1ea9m Kh\u00ed Qu\u1ed1c t\u1ebf",
+            "30.000.000,00",
+            "30.000.000,00",
+            "20/12/2011"
+        ],
+        "id": 346
+    },
+    {
+        "cell": [
+            123,
+            "GTA",
+            "VN000000GTA1",
+            "BBG000RPVCR4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ebf bi\u1ebfn G\u1ed7 Thu\u1eadn An",
+            "10.400.000,00",
+            "9.830.000,00",
+            "04/07/2007"
+        ],
+        "id": 123
+    },
+    {
+        "cell": [
+            572,
+            "GTN",
+            "VN000000GTN4",
+            "BBG0077MB130",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n GTNFOODS",
+            "250.000.000,00",
+            "250.000.000,00",
+            "23/09/2014"
+        ],
+        "id": 572
+    },
+    {
+        "cell": [
+            185,
+            "HAG",
+            "VN000000HAG6",
+            "BBG000GCXX42",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ho\u00e0ng Anh Gia Lai",
+            "927.467.947,00",
+            "927.399.283,00",
+            "15/12/2008"
+        ],
+        "id": 185
+    },
+    {
+        "cell": [
+            582,
+            "HAH",
+            "VN000000HAH4",
+            "BBG007N114K4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i v\u00e0 X\u1ebfp d\u1ee1 H\u1ea3i An",
+            "34.507.818,00",
+            "33.934.765,00",
+            "21/01/2015"
+        ],
+        "id": 582
+    },
+    {
+        "cell": [
+            250,
+            "HAI",
+            "VN000000HAI2",
+            "BBG000QR0CM0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n N\u00f4ng d\u01b0\u1ee3c HAI",
+            "182.682.799,00",
+            "182.682.799,00",
+            "07/04/2010"
+        ],
+        "id": 250
+    },
+    {
+        "cell": [
+            8,
+            "HAP",
+            "VN000000HAP7",
+            "BBG000M98RP0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n HAPACO",
+            "55.626.621,00",
+            "55.471.151,00",
+            "02/08/2000"
+        ],
+        "id": 8
+    },
+    {
+        "cell": [
+            340,
+            "HAR",
+            "VN000000HAR3",
+            "BBG003TMM2R5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i B\u1ea5t \u0111\u1ed9ng s\u1ea3n An D\u01b0\u01a1ng Th\u1ea3o \u0110i\u1ec1n",
+            "101.130.100,00",
+            "101.350.100,00",
+            "10/01/2013"
+        ],
+        "id": 340
+    },
+    {
+        "cell": [
+            16,
+            "HAS",
+            "VN000000HAS1",
+            "BBG000M992T0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n HACISCO",
+            "8.000.000,00",
+            "7.800.000,00",
+            "18/12/2002"
+        ],
+        "id": 16
+    },
+    {
+        "cell": [
+            53,
+            "HAX",
+            "VN000000HAX1",
+            "BBG000QMW9W2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 \u00d4 t\u00f4 H\u00e0ng Xanh",
+            "23.342.433,00",
+            "23.342.433,00",
+            "13/12/2006"
+        ],
+        "id": 53
+    },
+    {
+        "cell": [
+            85,
+            "HBC",
+            "VN000000HBC3",
+            "BBG000QMWDZ0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n X\u00e2y d\u1ef1ng H\u00f2a B\u00ecnh",
+            "129.850.757,00",
+            "129.850.757,00",
+            "22/11/2006"
+        ],
+        "id": 85
+    },
+    {
+        "cell": [
+            612,
+            "HCD",
+            "VN000000HCD9",
+            "BBG00D74VBV2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 S\u1ea3n xu\u1ea5t v\u00e0 Th\u01b0\u01a1ng m\u1ea1i HCD",
+            "13.500.000,00",
+            "0,00",
+            "27/06/2016"
+        ],
+        "id": 612
+    },
+    {
+        "cell": [
+            168,
+            "HCM",
+            "VN000000HCM0",
+            "BBG000LWFW71",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "129.756.758,00",
+            "129.570.368,00",
+            "20/04/2009"
+        ],
+        "id": 168
+    },
+    {
+        "cell": [
+            706,
+            "HDB",
+            "VN000000HDB1",
+            "BBG00CMXYXS6",
+            "Ng\u00e2n h\u00e0ng TMCP Ph\u00e1t tri\u1ec3n TP.H\u1ed3 Ch\u00ed Minh",
+            "980.999.979,00",
+            "980.999.771,00",
+            "25/12/2017"
+        ],
+        "id": 706
+    },
+    {
+        "cell": [
+            101,
+            "HDC",
+            "VN000000HDC9",
+            "BBG000NW6P10",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n nh\u00e0 B\u00e0 R\u1ecba \u2013 V\u0169ng T\u00e0u",
+            "45.078.926,00",
+            "45.077.847,00",
+            "25/09/2007"
+        ],
+        "id": 101
+    },
+    {
+        "cell": [
+            242,
+            "HDG",
+            "VN000000HDG0",
+            "BBG000Q6YVS1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n H\u00e0 \u0110\u00f4",
+            "75.968.080,00",
+            "75.951.224,00",
+            "19/01/2010"
+        ],
+        "id": 242
+    },
+    {
+        "cell": [
+            330,
+            "HHS",
+            "VN000000HHS6",
+            "BBG002BCDV21",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 Ho\u00e0ng Huy",
+            "274.744.063,00",
+            "269.744.063,00",
+            "13/12/2011"
+        ],
+        "id": 330
+    },
+    {
+        "cell": [
+            614,
+            "HID",
+            "VN000000HID6",
+            "BBG00D621W35",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Halcom Vi\u1ec7t Nam",
+            "31.606.621,00",
+            "31.600.980,00",
+            "22/06/2016"
+        ],
+        "id": 614
+    },
+    {
+        "cell": [
+            667,
+            "HII",
+            "VN000000HII5",
+            "BBG00GXSCL33",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nh\u1ef1a v\u00e0 Kho\u00e1ng s\u1ea3n An Ph\u00e1t \u2013 Y\u00ean B\u00e1i",
+            "13.600.000,00",
+            "13.600.000,00",
+            "14/06/2017"
+        ],
+        "id": 667
+    },
+    {
+        "cell": [
+            142,
+            "HLG",
+            "VN000000HLG3",
+            "BBG000P6VJK0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Ho\u00e0ng Long",
+            "44.375.385,00",
+            "44.225.385,00",
+            "01/09/2009"
+        ],
+        "id": 142
+    },
+    {
+        "cell": [
+            81,
+            "HMC",
+            "VN000000HMC0",
+            "BBG000QGPPT1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kim kh\u00ed Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh - Vnsteel",
+            "21.000.000,00",
+            "21.000.000,00",
+            "28/11/2006"
+        ],
+        "id": 81
+    },
+    {
+        "cell": [
+            597,
+            "HNG",
+            "VN000000HNG9",
+            "BBG009L960Q2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n N\u00f4ng nghi\u1ec7p Qu\u1ed1c t\u1ebf Ho\u00e0ng Anh Gia Lai",
+            "767.143.895,00",
+            "886.843.895,00",
+            "10/07/2015"
+        ],
+        "id": 597
+    },
+    {
+        "cell": [
+            308,
+            "HOT",
+            "VN000000HOT0",
+            "BBG001WV7WK3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Du l\u1ecbch D\u1ecbch v\u1ee5 H\u1ed9i An",
+            "8.000.000,00",
+            "7.999.937,00",
+            "13/07/2011"
+        ],
+        "id": 308
+    },
+    {
+        "cell": [
+            313,
+            "HPG",
+            "VN000000HPG4",
+            "BBG000TX8HK7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n H\u00f2a Ph\u00e1t",
+            "1.517.079.000,00",
+            "1.516.872.673,00",
+            "31/10/2007"
+        ],
+        "id": 313
+    },
+    {
+        "cell": [
+            280,
+            "HQC",
+            "VN000000HQC1",
+            "BBG0017BN2P8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u01b0 v\u1ea5n \u2013 Th\u01b0\u01a1ng m\u1ea1i \u2013 D\u1ecbch v\u1ee5 \u0110\u1ecba \u1ed1c Ho\u00e0ng Qu\u00e2n",
+            "476.600.000,00",
+            "476.599.274,00",
+            "12/10/2010"
+        ],
+        "id": 280
+    },
+    {
+        "cell": [
+            84,
+            "HRC",
+            "VN000000HRC9",
+            "BBG000QMWGG4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su H\u00f2a B\u00ecnh",
+            "30.206.622,00",
+            "30.206.622,00",
+            "22/11/2006"
+        ],
+        "id": 84
+    },
+    {
+        "cell": [
+            112,
+            "HSG",
+            "VN000000HSG8",
+            "BBG000KFK260",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Hoa Sen",
+            "349.996.683,00",
+            "349.957.383,00",
+            "05/11/2008"
+        ],
+        "id": 112
+    },
+    {
+        "cell": [
+            92,
+            "HT1",
+            "VN000000HT12",
+            "BBG000R4N2Q3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xi m\u0103ng H\u00e0 Ti\u00ean 1",
+            "381.589.911,00",
+            "381.541.911,00",
+            "31/10/2007"
+        ],
+        "id": 92
+    },
+    {
+        "cell": [
+            318,
+            "HTI",
+            "VN000000HTI2",
+            "BBG001BCVZT5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n H\u1ea1 t\u1ea7ng IDICO",
+            "24.949.200,00",
+            "24.949.200,00",
+            "09/12/2010"
+        ],
+        "id": 318
+    },
+    {
+        "cell": [
+            310,
+            "HTL",
+            "VN000000HTL6",
+            "BBG001CS5BM8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n K\u1ef9 thu\u1eadt v\u00e0 \u00d4 t\u00f4 Tr\u01b0\u1eddng Long",
+            "12.000.000,00",
+            "12.000.000,00",
+            "19/10/2010"
+        ],
+        "id": 310
+    },
+    {
+        "cell": [
+            661,
+            "HTT",
+            "VN000000HTT9",
+            "BBG00FLR9YL6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u01b0\u01a1ng m\u1ea1i H\u00e0 T\u00e2y",
+            "20.000.000,00",
+            "20.000.000,00",
+            "27/06/2017"
+        ],
+        "id": 661
+    },
+    {
+        "cell": [
+            54,
+            "HTV",
+            "VN000000HTV5",
+            "BBG000LNF026",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i H\u00e0 Ti\u00ean",
+            "13.104.000,00",
+            "13.104.000,00",
+            "07/12/2005"
+        ],
+        "id": 54
+    },
+    {
+        "cell": [
+            329,
+            "HU1",
+            "VN000000HU19",
+            "BBG000QY0HP1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 X\u00e2y d\u1ef1ng HUD1",
+            "10.000.000,00",
+            "10.000.000,00",
+            "20/10/2011"
+        ],
+        "id": 329
+    },
+    {
+        "cell": [
+            320,
+            "HU3",
+            "VN000000HU35",
+            "BBG001KKX7N3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 X\u00e2y d\u1ef1ng HUD3",
+            "9.999.944,00",
+            "9.999.944,00",
+            "02/03/2011"
+        ],
+        "id": 320
+    },
+    {
+        "cell": [
+            191,
+            "HVG",
+            "VN000000HVG2",
+            "BBG000PWT4Q3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u00f9ng V\u01b0\u01a1ng",
+            "227.038.291,00",
+            "222.038.291,00",
+            "16/11/2009"
+        ],
+        "id": 191
+    },
+    {
+        "cell": [
+            272,
+            "HVX",
+            "VN000000HVX7",
+            "BBG001657S00",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xi m\u0103ng Vicem H\u1ea3i V\u00e2n",
+            "38.525.250,00",
+            "41.525.250,00",
+            "31/08/2010"
+        ],
+        "id": 272
+    },
+    {
+        "cell": [
+            691,
+            "IBC",
+            "VN000000IBC1",
+            "BBG00F0Z7590",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Apax Holdings",
+            "68.880.000,00",
+            "68.880.000,00",
+            "06/12/2017"
+        ],
+        "id": 691
+    },
+    {
+        "cell": [
+            98,
+            "ICF",
+            "VN000000ICF2",
+            "BBG000QRGQR7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i Th\u1ee7y s\u1ea3n",
+            "12.807.000,00",
+            "12.807.000,00",
+            "11/12/2007"
+        ],
+        "id": 98
+    },
+    {
+        "cell": [
+            312,
+            "IDI",
+            "VN000000IDI4",
+            "BBG001PNKMN3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n \u0110a Qu\u1ed1c Gia I.D.I",
+            "181.609.671,00",
+            "181.609.671,00",
+            "17/05/2011"
+        ],
+        "id": 312
+    },
+    {
+        "cell": [
+            248,
+            "IJC",
+            "VN000000IJC4",
+            "BBG000QQTP88",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n H\u1ea1 t\u1ea7ng K\u1ef9 thu\u1eadt",
+            "137.097.323,00",
+            "137.097.323,00",
+            "05/04/2010"
+        ],
+        "id": 248
+    },
+    {
+        "cell": [
+            24,
+            "IMP",
+            "VN000000IMP0",
+            "BBG000PP6BN0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u01b0\u1ee3c ph\u1ea9m Imexpharm",
+            "42.978.151,00",
+            "42.958.351,00",
+            "15/11/2006"
+        ],
+        "id": 24
+    },
+    {
+        "cell": [
+            62,
+            "ITA",
+            "VN000000ITA7",
+            "BBG000QBN527",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 C\u00f4ng nghi\u1ec7p T\u00e2n T\u1ea1o",
+            "938.463.607,00",
+            "938.321.575,00",
+            "11/01/2006"
+        ],
+        "id": 62
+    },
+    {
+        "cell": [
+            143,
+            "ITC",
+            "VN000000ITC3",
+            "BBG000JVZX09",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 - Kinh doanh Nh\u00e0",
+            "69.086.688,00",
+            "68.646.328,00",
+            "24/09/2009"
+        ],
+        "id": 143
+    },
+    {
+        "cell": [
+            351,
+            "ITD",
+            "VN000000ITD1",
+            "BBG000C9CP98",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng ngh\u1ec7 Ti\u00ean Phong",
+            "19.064.798,00",
+            "19.018.010,00",
+            "13/12/2011"
+        ],
+        "id": 351
+    },
+    {
+        "cell": [
+            298,
+            "JVC",
+            "VN000000JVC7",
+            "BBG001QQZ3M2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Thi\u1ebft b\u1ecb Y t\u1ebf Vi\u1ec7t Nh\u1eadt",
+            "112.500.171,00",
+            "112.500.171,00",
+            "01/06/2011"
+        ],
+        "id": 298
+    },
+    {
+        "cell": [
+            294,
+            "KAC",
+            "VN000000KAC9",
+            "BBG0017BPK58",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 \u0110\u1ecba \u1ed1c Khang An",
+            "23.999.999,00",
+            "23.999.999,00",
+            "08/10/2010"
+        ],
+        "id": 294
+    },
+    {
+        "cell": [
+            202,
+            "KBC",
+            "VN000000KBC7",
+            "BBG000V13PS3",
+            "T\u1ed5ng C\u00f4ng ty Ph\u00e1t tri\u1ec3n \u0110\u00f4 Th\u1ecb Kinh B\u1eafc \u2013 C\u00f4ng ty C\u1ed5 ph\u1ea7n",
+            "475.711.167,00",
+            "469.760.189,00",
+            "07/12/2009"
+        ],
+        "id": 202
+    },
+    {
+        "cell": [
+            91,
+            "KDC",
+            "VN000000KDC3",
+            "BBG000LNDMG5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Kido",
+            "256.653.397,00",
+            "205.661.141,00",
+            "18/11/2005"
+        ],
+        "id": 91
+    },
+    {
+        "cell": [
+            166,
+            "KDH",
+            "VN000000KDH2",
+            "BBG000Q7Z3Y3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Kinh doanh Nh\u00e0 Khang \u0110i\u1ec1n",
+            "336.000.000,00",
+            "387.832.317,00",
+            "21/01/2010"
+        ],
+        "id": 166
+    },
+    {
+        "cell": [
+            15,
+            "KHA",
+            "VN000000KHA8",
+            "BBG000M98ZR0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 D\u1ecbch v\u1ee5 Kh\u00e1nh H\u1ed9i",
+            "14.120.309,00",
+            "13.958.779,00",
+            "14/08/2002"
+        ],
+        "id": 15
+    },
+    {
+        "cell": [
+            70,
+            "KHP",
+            "VN000000KHP6",
+            "BBG000QG6927",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c Kh\u00e1nh H\u00f2a",
+            "41.551.296,00",
+            "40.051.296,00",
+            "08/12/2006"
+        ],
+        "id": 70
+    },
+    {
+        "cell": [
+            156,
+            "KMR",
+            "VN000000KMR2",
+            "BBG000BV0GH4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n MIRAE",
+            "56.881.443,00",
+            "56.877.807,00",
+            "23/06/2008"
+        ],
+        "id": 156
+    },
+    {
+        "cell": [
+            602,
+            "KPF",
+            "VN000000KPF0",
+            "BBG00C854RL6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 T\u00e0i ch\u00ednh Ho\u00e0ng Minh",
+            "17.160.000,00",
+            "17.160.000,00",
+            "18/02/2016"
+        ],
+        "id": 602
+    },
+    {
+        "cell": [
+            263,
+            "KSA",
+            "VN000000KSA5",
+            "BBG000BC8NQ3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng nghi\u1ec7p Kho\u00e1ng s\u1ea3n B\u00ecnh Thu\u1eadn",
+            "93.427.360,00",
+            "93.427.360,00",
+            "07/07/2010"
+        ],
+        "id": 263
+    },
+    {
+        "cell": [
+            212,
+            "KSB",
+            "VN000000KSB3",
+            "BBG000H9ZHS5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kho\u00e1ng s\u1ea3n v\u00e0 X\u00e2y d\u1ef1ng B\u00ecnh D\u01b0\u01a1ng",
+            "46.800.000,00",
+            "46.800.000,00",
+            "17/12/2009"
+        ],
+        "id": 212
+    },
+    {
+        "cell": [
+            111,
+            "KSH",
+            "VN000000KSH0",
+            "BBG000KF9HB4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n KSH",
+            "57.509.675,00",
+            "57.509.675,00",
+            "03/11/2008"
+        ],
+        "id": 111
+    },
+    {
+        "cell": [
+            106,
+            "L10",
+            "VN000000L102",
+            "BBG000V0CJ18",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Lilama 10",
+            "9.890.000,00",
+            "9.790.000,00",
+            "11/12/2007"
+        ],
+        "id": 106
+    },
+    {
+        "cell": [
+            10,
+            "LAF",
+            "VN000000LAF0",
+            "BBG000MBB1G8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ebf bi\u1ebfn H\u00e0ng xu\u1ea5t kh\u1ea9u Long An",
+            "14.728.019,00",
+            "14.728.019,00",
+            "11/12/2000"
+        ],
+        "id": 10
+    },
+    {
+        "cell": [
+            73,
+            "LBM",
+            "VN000000LBM4",
+            "BBG000QK5411",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kho\u00e1ng s\u1ea3n v\u00e0 V\u1eadt li\u1ec7u X\u00e2y d\u1ef1ng L\u00e2m \u0110\u1ed3ng",
+            "8.500.000,00",
+            "8.500.000,00",
+            "30/11/2006"
+        ],
+        "id": 73
+    },
+    {
+        "cell": [
+            181,
+            "LCG",
+            "VN000000LCG4",
+            "BBG000RDD989",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n LICOGI 16",
+            "100.000.000,00",
+            "99.999.662,00",
+            "17/10/2008"
+        ],
+        "id": 181
+    },
+    {
+        "cell": [
+            341,
+            "LCM",
+            "VN000000LCM2",
+            "BBG00227Y410",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Khai th\u00e1c v\u00e0 Ch\u1ebf bi\u1ebfn Kho\u00e1ng s\u1ea3n L\u00e0o Cai",
+            "24.633.000,00",
+            "24.632.809,00",
+            "08/09/2011"
+        ],
+        "id": 341
+    },
+    {
+        "cell": [
+            591,
+            "LDG",
+            "VN000000LDG2",
+            "BBG009RRQXY3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 LDG",
+            "159.957.806,00",
+            "159.957.806,00",
+            "05/08/2015"
+        ],
+        "id": 591
+    },
+    {
+        "cell": [
+            663,
+            "LEC",
+            "VN000000LEC9",
+            "BBG00GW0PK42",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0110i\u1ec7n l\u1ef1c Mi\u1ec1n Trung",
+            "26.100.000,00",
+            "26.100.000,00",
+            "05/06/2017"
+        ],
+        "id": 663
+    },
+    {
+        "cell": [
+            68,
+            "LGC",
+            "VN000000LGC4",
+            "BBG000QMWHL6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 C\u1ea7u \u0110\u01b0\u1eddng CII",
+            "192.854.765,00",
+            "192.854.765,00",
+            "29/11/2006"
+        ],
+        "id": 68
+    },
+    {
+        "cell": [
+            225,
+            "LGL",
+            "VN000000LGL5",
+            "BBG000PLL5F4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Long Giang",
+            "34.596.684,00",
+            "34.593.784,00",
+            "23/09/2009"
+        ],
+        "id": 225
+    },
+    {
+        "cell": [
+            258,
+            "LHG",
+            "VN000000LHG3",
+            "BBG000QJKXD0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Long H\u1eadu",
+            "50.012.010,00",
+            "50.012.010,00",
+            "15/03/2010"
+        ],
+        "id": 258
+    },
+    {
+        "cell": [
+            158,
+            "LIX",
+            "VN000000LIX6",
+            "BBG000PZ8L63",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ed9t gi\u1eb7t LIX",
+            "32.400.000,00",
+            "32.400.000,00",
+            "01/12/2009"
+        ],
+        "id": 158
+    },
+    {
+        "cell": [
+            285,
+            "LM8",
+            "VN000000LM88",
+            "BBG0018PZ512",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Lilama 18",
+            "9.388.682,00",
+            "9.388.682,00",
+            "05/11/2010"
+        ],
+        "id": 285
+    },
+    {
+        "cell": [
+            138,
+            "LSS",
+            "VN000000LSS5",
+            "BBG000PC7XS5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n M\u00eda \u0111\u01b0\u1eddng Lam S\u01a1n",
+            "70.000.000,00",
+            "66.994.950,00",
+            "21/12/2007"
+        ],
+        "id": 138
+    },
+    {
+        "cell": [
+            300,
+            "MBB",
+            "VN000000MBB5",
+            "BBG00270VT27",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n Qu\u00e2n \u0110\u1ed9i",
+            "1.815.505.363,00",
+            "1.815.505.363,00",
+            "18/10/2011"
+        ],
+        "id": 300
+    },
+    {
+        "cell": [
+            224,
+            "MCG",
+            "VN000000MCG2",
+            "BBG000PDD8G4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u01a1 \u0111i\u1ec7n v\u00e0 X\u00e2y d\u1ef1ng Vi\u1ec7t Nam",
+            "57.510.000,00",
+            "52.050.000,00",
+            "16/09/2009"
+        ],
+        "id": 224
+    },
+    {
+        "cell": [
+            6,
+            "MCP",
+            "VN000000MCP3",
+            "BBG000QMWKF6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n In v\u00e0 Bao b\u00ec M\u1ef9 Ch\u00e2u",
+            "15.071.337,00",
+            "15.052.615,00",
+            "18/12/2006"
+        ],
+        "id": 6
+    },
+    {
+        "cell": [
+            319,
+            "MDG",
+            "VN000000MDG0",
+            "BBG001D1BJD2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Mi\u1ec1n \u0110\u00f4ng",
+            "10.889.031,00",
+            "10.324.781,00",
+            "05/01/2011"
+        ],
+        "id": 319
+    },
+    {
+        "cell": [
+            44,
+            "MHC",
+            "VN000000MHC0",
+            "BBG000BX72W7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n MHC",
+            "32.735.210,00",
+            "32.735.090,00",
+            "31/12/2004"
+        ],
+        "id": 44
+    },
+    {
+        "cell": [
+            291,
+            "MSN",
+            "VN000000MSN4",
+            "BBG000PSPMZ6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n MaSan",
+            "1.157.373.974,00",
+            "1.047.474.042,00",
+            "30/10/2009"
+        ],
+        "id": 291
+    },
+    {
+        "cell": [
+            566,
+            "MWG",
+            "VN000000MWG0",
+            "BBG006S6NN42",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Th\u1ebf Gi\u1edbi Di \u0110\u1ed9ng",
+            "323.169.521,00",
+            "322.935.361,00",
+            "07/07/2014"
+        ],
+        "id": 566
+    },
+    {
+        "cell": [
+            603,
+            "NAF",
+            "VN000000NAF6",
+            "BBG00B40DT75",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nafoods Group",
+            "30.000.000,00",
+            "30.000.000,00",
+            "28/09/2015"
+        ],
+        "id": 603
+    },
+    {
+        "cell": [
+            42,
+            "NAV",
+            "VN000000NAV3",
+            "BBG000QMCVS0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nam Vi\u1ec7t",
+            "8.000.000,00",
+            "7.999.980,00",
+            "30/11/2006"
+        ],
+        "id": 42
+    },
+    {
+        "cell": [
+            159,
+            "NBB",
+            "VN000000NBB3",
+            "BBG000TJKMX9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 N\u0103m B\u1ea3y B\u1ea3y",
+            "97.571.574,00",
+            "97.432.174,00",
+            "20/11/2008"
+        ],
+        "id": 159
+    },
+    {
+        "cell": [
+            581,
+            "NCT",
+            "VN000000NCT3",
+            "BBG007R0PVT7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 H\u00e0ng h\u00f3a N\u1ed9i B\u00e0i",
+            "26.166.940,00",
+            "26.165.732,00",
+            "09/12/2014"
+        ],
+        "id": 581
+    },
+    {
+        "cell": [
+            209,
+            "NKG",
+            "VN000000NKG3",
+            "BBG001D63Y10",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u00e9p Nam Kim",
+            "130.000.000,00",
+            "130.000.000,00",
+            "10/01/2011"
+        ],
+        "id": 209
+    },
+    {
+        "cell": [
+            336,
+            "NLG",
+            "VN000000NLG1",
+            "BBG0042V8NP4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Nam Long",
+            "157.226.409,00",
+            "157.226.409,00",
+            "25/01/2013"
+        ],
+        "id": 336
+    },
+    {
+        "cell": [
+            150,
+            "NNC",
+            "VN000000NNC6",
+            "BBG000R1SNF0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u00e1 N\u00fai Nh\u1ecf",
+            "21.920.000,00",
+            "21.920.000,00",
+            "10/06/2010"
+        ],
+        "id": 150
+    },
+    {
+        "cell": [
+            75,
+            "NSC",
+            "VN000000NSC5",
+            "BBG000QLW9H1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Gi\u1ed1ng c\u00e2y tr\u1ed3ng Trung \u01af\u01a1ng",
+            "15.295.000,00",
+            "15.283.528,00",
+            "01/12/2006"
+        ],
+        "id": 75
+    },
+    {
+        "cell": [
+            588,
+            "NT2",
+            "VN000000NT22",
+            "BBG0014KNPX1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110i\u1ec7n l\u1ef1c D\u1ea7u kh\u00ed Nh\u01a1n Tr\u1ea1ch 2",
+            "287.876.029,00",
+            "287.876.029,00",
+            "02/06/2015"
+        ],
+        "id": 588
+    },
+    {
+        "cell": [
+            96,
+            "NTL",
+            "VN000000NTL4",
+            "BBG000RHYFY4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb T\u1eeb Li\u00eam",
+            "63.600.000,00",
+            "60.989.950,00",
+            "06/12/2007"
+        ],
+        "id": 96
+    },
+    {
+        "cell": [
+            637,
+            "NVL",
+            "VN000000NVL0",
+            "BBG00FM8NC93",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n \u0110\u1ecba \u1ed1c No Va",
+            "652.638.750,00",
+            "652.638.750,00",
+            "19/12/2016"
+        ],
+        "id": 637
+    },
+    {
+        "cell": [
+            252,
+            "NVT",
+            "VN000000NVT3",
+            "BBG000QTW822",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Du l\u1ecbch Ninh V\u00e2n Bay",
+            "90.500.000,00",
+            "90.500.000,00",
+            "28/04/2010"
+        ],
+        "id": 252
+    },
+    {
+        "cell": [
+            260,
+            "OGC",
+            "VN000000OGC8",
+            "BBG000QSB710",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n \u0110\u1ea1i D\u01b0\u01a1ng",
+            "300.000.000,00",
+            "299.999.999,00",
+            "16/04/2010"
+        ],
+        "id": 260
+    },
+    {
+        "cell": [
+            179,
+            "OPC",
+            "VN000000OPC9",
+            "BBG000JVXFJ0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u01b0\u1ee3c ph\u1ea9m OPC",
+            "25.311.696,00",
+            "25.311.696,00",
+            "20/10/2008"
+        ],
+        "id": 179
+    },
+    {
+        "cell": [
+            22,
+            "PAC",
+            "VN000000PAC8",
+            "BBG000QGMCJ4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Pin \u1eaec quy mi\u1ec1n Nam",
+            "46.471.707,00",
+            "46.471.707,00",
+            "09/11/2006"
+        ],
+        "id": 22
+    },
+    {
+        "cell": [
+            276,
+            "PAN",
+            "VN000000PAN5",
+            "BBG000QRH9P6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n PAN",
+            "120.201.630,00",
+            "120.201.630,00",
+            "18/11/2010"
+        ],
+        "id": 276
+    },
+    {
+        "cell": [
+            630,
+            "PC1",
+            "VN000000PC11",
+            "BBG00F86YRM3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y l\u1eafp \u0110i\u1ec7n I",
+            "115.452.842,00",
+            "115.452.410,00",
+            "09/11/2016"
+        ],
+        "id": 630
+    },
+    {
+        "cell": [
+            299,
+            "PDN",
+            "VN000000PDN9",
+            "BBG000RD0BX0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u1ea3ng \u0110\u1ed3ng Nai",
+            "12.347.987,00",
+            "12.347.987,00",
+            "04/08/2011"
+        ],
+        "id": 299
+    },
+    {
+        "cell": [
+            284,
+            "PDR",
+            "VN000000PDR0",
+            "BBG000BG7XL8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n B\u1ea5t \u0111\u1ed9ng s\u1ea3n Ph\u00e1t \u0110\u1ea1t",
+            "221.990.923,00",
+            "221.990.923,00",
+            "22/07/2010"
+        ],
+        "id": 284
+    },
+    {
+        "cell": [
+            99,
+            "PET",
+            "VN000000PET4",
+            "BBG000T6PR07",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p D\u1ea7u kh\u00ed",
+            "86.600.124,00",
+            "86.600.124,00",
+            "13/08/2007"
+        ],
+        "id": 99
+    },
+    {
+        "cell": [
+            23,
+            "PGC",
+            "VN000000PGC5",
+            "BBG000BP5NJ5",
+            "T\u1ed5ng C\u00f4ng ty Gas Petrolimex - C\u00f4ng ty C\u1ed5 ph\u1ea7n",
+            "60.342.638,00",
+            "60.339.285,00",
+            "20/10/2006"
+        ],
+        "id": 23
+    },
+    {
+        "cell": [
+            229,
+            "PGD",
+            "VN000000PGD3",
+            "BBG000PXC513",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e2n ph\u1ed1i Kh\u00ed th\u1ea5p \u00e1p D\u1ea7u kh\u00ed Vi\u1ec7t Nam",
+            "89.999.025,00",
+            "89.998.070,00",
+            "19/11/2009"
+        ],
+        "id": 229
+    },
+    {
+        "cell": [
+            333,
+            "PGI",
+            "VN000000PGI2",
+            "BBG001QZL5G9",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ea3o hi\u1ec3m Petrolimex",
+            "88.717.773,00",
+            "88.717.773,00",
+            "08/06/2011"
+        ],
+        "id": 333
+    },
+    {
+        "cell": [
+            146,
+            "PHR",
+            "VN000000PHR1",
+            "BBG000V0C1P1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su Ph\u01b0\u1edbc H\u00f2a",
+            "81.300.000,00",
+            "78.490.047,00",
+            "04/08/2009"
+        ],
+        "id": 146
+    },
+    {
+        "cell": [
+            122,
+            "PIT",
+            "VN000000PIT5",
+            "BBG000PMW935",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u PETROLIMEX",
+            "15.199.345,00",
+            "14.210.225,00",
+            "09/01/2008"
+        ],
+        "id": 122
+    },
+    {
+        "cell": [
+            5,
+            "PJT",
+            "VN000000PJT3",
+            "BBG000QMWMJ8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i X\u0103ng d\u1ea7u \u0110\u01b0\u1eddng th\u1ee7y Petrolimex",
+            "15.360.478,00",
+            "15.360.478,00",
+            "11/12/2006"
+        ],
+        "id": 5
+    },
+    {
+        "cell": [
+            675,
+            "PLP",
+            "VN000000PLP7",
+            "BBG00H44X8M1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1ea3n xu\u1ea5t v\u00e0 C\u00f4ng ngh\u1ec7 Nh\u1ef1a Pha L\u00ea",
+            "15.000.000,00",
+            "15.000.000,00",
+            "11/08/2017"
+        ],
+        "id": 675
+    },
+    {
+        "cell": [
+            656,
+            "PLX",
+            "VN000000PLX1",
+            "BBG00GGRY2V1",
+            "T\u1eadp \u0111o\u00e0n X\u0103ng d\u1ea7u Vi\u1ec7t Nam",
+            "1.293.878.081,00",
+            "1.158.813.235,00",
+            "14/04/2017"
+        ],
+        "id": 656
+    },
+    {
+        "cell": [
+            681,
+            "PME",
+            "VN000000PME9",
+            "BBG00J3MMDW8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Pymepharco",
+            "65.227.500,00",
+            "65.227.500,00",
+            "30/10/2017"
+        ],
+        "id": 681
+    },
+    {
+        "cell": [
+            700,
+            "PMG",
+            "VN000000PMG4",
+            "BBG00JN3TXJ2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 S\u1ea3n xu\u1ea5t Petro Mi\u1ec1n Trung",
+            "33.000.000,00",
+            "33.000.000,00",
+            "27/12/2017"
+        ],
+        "id": 700
+    },
+    {
+        "cell": [
+            71,
+            "PNC",
+            "VN000000PNC1",
+            "BBG000CXCXK5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u0103n h\u00f3a Ph\u01b0\u01a1ng Nam",
+            "11.040.241,00",
+            "10.799.351,00",
+            "21/06/2005"
+        ],
+        "id": 71
+    },
+    {
+        "cell": [
+            164,
+            "PNJ",
+            "VN000000PNJ6",
+            "BBG000BX74C5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u00e0ng b\u1ea1c \u0110\u00e1 qu\u00fd Ph\u00fa Nhu\u1eadn",
+            "108.102.034,00",
+            "108.101.325,00",
+            "26/12/2008"
+        ],
+        "id": 164
+    },
+    {
+        "cell": [
+            251,
+            "POM",
+            "VN000000POM8",
+            "BBG000QR9N83",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u00e9p POMINA",
+            "187.449.951,00",
+            "186.317.161,00",
+            "07/04/2010"
+        ],
+        "id": 251
+    },
+    {
+        "cell": [
+            120,
+            "PPC",
+            "VN000000PPC6",
+            "BBG000QQYWZ7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nhi\u1ec7t \u0111i\u1ec7n Ph\u1ea3 L\u1ea1i",
+            "326.235.000,00",
+            "320.613.054,00",
+            "17/01/2007"
+        ],
+        "id": 120
+    },
+    {
+        "cell": [
+            247,
+            "PPI",
+            "VN000000PPI3",
+            "BBG000QN3LV6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 Ph\u00e1t tri\u1ec3n D\u1ef1 \u00e1n H\u1ea1 t\u1ea7ng Th\u00e1i B\u00ecnh D\u01b0\u01a1ng",
+            "48.290.629,00",
+            "48.290.629,00",
+            "02/04/2010"
+        ],
+        "id": 247
+    },
+    {
+        "cell": [
+            349,
+            "PTB",
+            "VN000000PTB0",
+            "BBG001QBKQG7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00fa T\u00e0i",
+            "25.920.194,00",
+            "27.216.194,00",
+            "20/05/2011"
+        ],
+        "id": 349
+    },
+    {
+        "cell": [
+            152,
+            "PTC",
+            "VN000000PTC8",
+            "BBG000P5S9B8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 X\u00e2y d\u1ef1ng B\u01b0u \u0111i\u1ec7n",
+            "17.999.999,00",
+            "16.209.999,00",
+            "08/12/2008"
+        ],
+        "id": 152
+    },
+    {
+        "cell": [
+            271,
+            "PTL",
+            "VN000000PTL9",
+            "BBG001645YS2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 H\u1ea1 t\u1ea7ng v\u00e0 \u0110\u00f4 th\u1ecb D\u1ea7u kh\u00ed",
+            "100.000.000,00",
+            "98.865.080,00",
+            "15/09/2010"
+        ],
+        "id": 271
+    },
+    {
+        "cell": [
+            67,
+            "PVD",
+            "VN000000PVD2",
+            "BBG000QFVBX2",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n Khoan v\u00e0 D\u1ecbch v\u1ee5 Khoan D\u1ea7u kh\u00ed",
+            "383.266.160,00",
+            "382.850.160,00",
+            "15/11/2006"
+        ],
+        "id": 67
+    },
+    {
+        "cell": [
+            95,
+            "PVT",
+            "VN000000PVT8",
+            "BBG000LZ5FZ1",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i D\u1ea7u kh\u00ed",
+            "281.440.162,00",
+            "281.440.162,00",
+            "27/11/2007"
+        ],
+        "id": 95
+    },
+    {
+        "cell": [
+            221,
+            "PXI",
+            "VN000000PXI7",
+            "BBG000BBWQ45",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng C\u00f4ng nghi\u1ec7p & D\u00e2n d\u1ee5ng D\u1ea7u kh\u00ed",
+            "30.000.000,00",
+            "30.000.000,00",
+            "07/06/2010"
+        ],
+        "id": 221
+    },
+    {
+        "cell": [
+            230,
+            "PXS",
+            "VN000000PXS6",
+            "BBG000QZ8Z07",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n K\u1ebft c\u1ea5u Kim lo\u1ea1i v\u00e0 L\u1eafp m\u00e1y D\u1ea7u kh\u00ed",
+            "60.000.000,00",
+            "60.000.000,00",
+            "27/05/2010"
+        ],
+        "id": 230
+    },
+    {
+        "cell": [
+            237,
+            "PXT",
+            "VN000000PXT4",
+            "BBG000QZFQL6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y l\u1eafp \u0110\u01b0\u1eddng \u1ed1ng B\u1ec3 ch\u1ee9a D\u1ea7u kh\u00ed",
+            "20.000.000,00",
+            "20.000.000,00",
+            "09/06/2010"
+        ],
+        "id": 237
+    },
+    {
+        "cell": [
+            575,
+            "QBS",
+            "VN000000QBS0",
+            "BBG007H4BS94",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Xu\u1ea5t nh\u1eadp kh\u1ea9u Qu\u1ea3ng B\u00ecnh",
+            "69.329.928,00",
+            "69.329.928,00",
+            "04/11/2014"
+        ],
+        "id": 575
+    },
+    {
+        "cell": [
+            274,
+            "QCG",
+            "VN000000QCG3",
+            "BBG000JVZTR9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Qu\u1ed1c C\u01b0\u1eddng Gia Lai",
+            "275.129.310,00",
+            "275.129.141,00",
+            "27/07/2010"
+        ],
+        "id": 274
+    },
+    {
+        "cell": [
+            34,
+            "RAL",
+            "VN000000RAL5",
+            "BBG000QFVDC1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u00f3ng \u0111\u00e8n Ph\u00edch n\u01b0\u1edbc R\u1ea1ng \u0110\u00f4ng",
+            "11.500.000,00",
+            "11.500.000,00",
+            "23/10/2006"
+        ],
+        "id": 34
+    },
+    {
+        "cell": [
+            140,
+            "RDP",
+            "VN000000RDP0",
+            "BBG000PBYT51",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nh\u1ef1a R\u1ea1ng \u0110\u00f4ng",
+            "28.286.076,00",
+            "28.286.076,00",
+            "21/08/2009"
+        ],
+        "id": 140
+    },
+    {
+        "cell": [
+            33,
+            "REE",
+            "VN000000REE2",
+            "BBG000Q5Y2H9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u01a1 \u0110i\u1ec7n L\u1ea1nh",
+            "310.058.841,00",
+            "310.050.926,00",
+            "18/07/2000"
+        ],
+        "id": 33
+    },
+    {
+        "cell": [
+            127,
+            "RIC",
+            "VN000000RIC7",
+            "BBG000RT5PQ7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Qu\u1ed1c t\u1ebf Ho\u00e0ng Gia",
+            "28.708.169,00",
+            "70.368.754,00",
+            "23/07/2007"
+        ],
+        "id": 127
+    },
+    {
+        "cell": [
+            627,
+            "ROS",
+            "VN000000ROS1",
+            "BBG00DQ063Z1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng FLC FAROS",
+            "472.999.999,00",
+            "472.999.999,00",
+            "24/08/2016"
+        ],
+        "id": 627
+    },
+    {
+        "cell": [
+            606,
+            "S4A",
+            "VN000000S4A5",
+            "BBG00CSQ4NB8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n S\u00ea San 4A",
+            "42.200.000,00",
+            "42.200.000,00",
+            "26/04/2016"
+        ],
+        "id": 606
+    },
+    {
+        "cell": [
+            633,
+            "SAB",
+            "VN000000SAB4",
+            "BBG000V9NP31",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n Bia \u2013 R\u01b0\u1ee3u \u2013 N\u01b0\u1edbc gi\u1ea3i kh\u00e1t S\u00e0i G\u00f2n",
+            "641.281.186,00",
+            "641.281.186,00",
+            "25/11/2016"
+        ],
+        "id": 633
+    },
+    {
+        "cell": [
+            36,
+            "SAM",
+            "VN000000SAM1",
+            "BBG000Q1YHR4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n SAM Holdings",
+            "241.785.703,00",
+            "241.785.703,00",
+            "18/07/2000"
+        ],
+        "id": 36
+    },
+    {
+        "cell": [
+            86,
+            "SAV",
+            "VN000000SAV2",
+            "BBG000MC1X95",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u1ee3p t\u00e1c Kinh t\u1ebf v\u00e0 Xu\u1ea5t nh\u1eadp kh\u1ea9u SAVIMEX",
+            "12.666.611,00",
+            "12.270.841,00",
+            "26/04/2002"
+        ],
+        "id": 86
+    },
+    {
+        "cell": [
+            287,
+            "SBA",
+            "VN000000SBA4",
+            "BBG000QVRG16",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u00f4ng Ba",
+            "60.488.261,00",
+            "60.288.271,00",
+            "28/04/2010"
+        ],
+        "id": 287
+    },
+    {
+        "cell": [
+            155,
+            "SBT",
+            "VN000000SBT4",
+            "BBG000DWVH11",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a",
+            "557.018.673,00",
+            "557.018.673,00",
+            "25/02/2008"
+        ],
+        "id": 155
+    },
+    {
+        "cell": [
+            641,
+            "SBV",
+            "VN000000SBV0",
+            "BBG00DR8HYH3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Siam Brothers Vi\u1ec7t Nam",
+            "27.366.476,00",
+            "27.306.476,00",
+            "03/05/2017"
+        ],
+        "id": 641
+    },
+    {
+        "cell": [
+            322,
+            "SC5",
+            "VN000000SC59",
+            "BBG000QWQNK9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng s\u1ed1 5",
+            "14.984.550,00",
+            "14.983.499,00",
+            "10/04/2007"
+        ],
+        "id": 322
+    },
+    {
+        "cell": [
+            48,
+            "SCD",
+            "VN000000SCD6",
+            "BBG000QMWS69",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n N\u01b0\u1edbc gi\u1ea3i kh\u00e1t Ch\u01b0\u01a1ng D\u01b0\u01a1ng",
+            "8.500.000,00",
+            "8.477.640,00",
+            "12/11/2006"
+        ],
+        "id": 48
+    },
+    {
+        "cell": [
+            626,
+            "SCR",
+            "VN000000SCR6",
+            "BBG0018DKFN9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ecba \u1ed1c S\u00e0i G\u00f2n Th\u01b0\u01a1ng T\u00edn",
+            "243.872.424,00",
+            "243.871.235,00",
+            "06/10/2016"
+        ],
+        "id": 626
+    },
+    {
+        "cell": [
+            321,
+            "SFC",
+            "VN000000SFC1",
+            "BBG000PQF917",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nhi\u00ean li\u1ec7u S\u00e0i G\u00f2n",
+            "11.291.459,00",
+            "11.234.819,00",
+            "16/06/2004"
+        ],
+        "id": 321
+    },
+    {
+        "cell": [
+            576,
+            "SFG",
+            "VN000000SFG2",
+            "BBG007KCPRX2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e2n b\u00f3n Mi\u1ec1n Nam",
+            "47.897.333,00",
+            "47.897.333,00",
+            "17/11/2014"
+        ],
+        "id": 576
+    },
+    {
+        "cell": [
+            59,
+            "SFI",
+            "VN000000SFI8",
+            "BBG000QN56H3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea1i l\u00fd V\u1eadn t\u1ea3i SAFI",
+            "11.930.154,00",
+            "11.800.142,00",
+            "08/12/2006"
+        ],
+        "id": 59
+    },
+    {
+        "cell": [
+            677,
+            "SGR",
+            "VN000000SGR7",
+            "BBG008MWKWZ6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ecba \u1ed1c S\u00e0i G\u00f2n",
+            "39.599.989,00",
+            "39.599.978,00",
+            "21/12/2017"
+        ],
+        "id": 677
+    },
+    {
+        "cell": [
+            139,
+            "SGT",
+            "VN000000SGT3",
+            "BBG000V38SM4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng ngh\u1ec7 Vi\u1ec5n th\u00f4ng S\u00e0i G\u00f2n",
+            "74.001.914,00",
+            "74.001.604,00",
+            "10/01/2008"
+        ],
+        "id": 139
+    },
+    {
+        "cell": [
+            617,
+            "SHA",
+            "VN000000SHA1",
+            "BBG003TTCWX8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u01a1n H\u00e0 S\u00e0i G\u00f2n",
+            "27.579.200,00",
+            "27.579.200,00",
+            "27/09/2016"
+        ],
+        "id": 617
+    },
+    {
+        "cell": [
+            211,
+            "SHI",
+            "VN000000SHI4",
+            "BBG000Q3SY27",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Qu\u1ed1c t\u1ebf S\u01a1n H\u00e0",
+            "64.232.406,00",
+            "63.913.546,00",
+            "23/12/2009"
+        ],
+        "id": 211
+    },
+    {
+        "cell": [
+            565,
+            "SHP",
+            "VN000000SHP9",
+            "BBG0015Y8H38",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n Mi\u1ec1n Nam",
+            "93.710.200,00",
+            "93.710.200,00",
+            "14/07/2014"
+        ],
+        "id": 565
+    },
+    {
+        "cell": [
+            343,
+            "SII",
+            "VN000000SII2",
+            "BBG003BBYCH4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u1ea1 t\u1ea7ng n\u01b0\u1edbc S\u00e0i G\u00f2n",
+            "64.516.000,00",
+            "64.516.000,00",
+            "22/08/2012"
+        ],
+        "id": 343
+    },
+    {
+        "cell": [
+            132,
+            "SJD",
+            "VN000000SJD1",
+            "BBG000QMWZB7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n C\u1ea7n \u0110\u01a1n",
+            "68.998.620,00",
+            "68.998.620,00",
+            "11/12/2006"
+        ],
+        "id": 132
+    },
+    {
+        "cell": [
+            636,
+            "SJF",
+            "VN000000SJF6",
+            "BBG00H0JKDH1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Sao Th\u00e1i D\u01b0\u01a1ng",
+            "66.000.000,00",
+            "66.000.000,00",
+            "19/06/2017"
+        ],
+        "id": 636
+    },
+    {
+        "cell": [
+            117,
+            "SJS",
+            "VN000000SJS9",
+            "BBG000PT9TZ7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb v\u00e0 Khu c\u00f4ng nghi\u1ec7p S\u00f4ng \u0110\u00e0",
+            "100.000.000,00",
+            "99.041.940,00",
+            "11/05/2006"
+        ],
+        "id": 117
+    },
+    {
+        "cell": [
+            563,
+            "SKG",
+            "VN000000SKG2",
+            "BBG006JBZKR9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u00e0u cao t\u1ed1c Superdong \u2013 Ki\u00ean Giang",
+            "47.979.437,00",
+            "47.979.437,00",
+            "16/05/2014"
+        ],
+        "id": 563
+    },
+    {
+        "cell": [
+            278,
+            "SMA",
+            "VN000000SMA1",
+            "BBG00170KPB9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Thi\u1ebft b\u1ecb Ph\u1ee5 t\u00f9ng S\u00e0i G\u00f2n",
+            "16.120.000,00",
+            "16.120.000,00",
+            "23/09/2010"
+        ],
+        "id": 278
+    },
+    {
+        "cell": [
+            20,
+            "SMC",
+            "VN000000SMC7",
+            "BBG000DNHW50",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i SMC",
+            "42.005.961,00",
+            "41.999.243,00",
+            "29/09/2006"
+        ],
+        "id": 20
+    },
+    {
+        "cell": [
+            255,
+            "SPM",
+            "VN000000SPM9",
+            "BBG000BXHW05",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n SPM",
+            "14.000.000,00",
+            "13.770.000,00",
+            "07/05/2010"
+        ],
+        "id": 255
+    },
+    {
+        "cell": [
+            144,
+            "SRC",
+            "VN000000SRC6",
+            "BBG000BDVD96",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su Sao V\u00e0ng",
+            "28.065.765,00",
+            "28.063.368,00",
+            "23/09/2009"
+        ],
+        "id": 144
+    },
+    {
+        "cell": [
+            149,
+            "SRF",
+            "VN000000SRF9",
+            "BBG000D0BT26",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n K\u1ef9 Ngh\u1ec7 L\u1ea1nh",
+            "32.495.397,00",
+            "31.357.757,00",
+            "05/10/2009"
+        ],
+        "id": 149
+    },
+    {
+        "cell": [
+            61,
+            "SSC",
+            "VN000000SSC4",
+            "BBG000Q5LYX5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Gi\u1ed1ng C\u00e2y tr\u1ed3ng Mi\u1ec1n Nam",
+            "14.992.367,00",
+            "13.516.855,00",
+            "29/12/2004"
+        ],
+        "id": 61
+    },
+    {
+        "cell": [
+            102,
+            "SSI",
+            "VN000000SSI1",
+            "BBG000BN4F44",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n S\u00e0i G\u00f2n",
+            "500.063.684,00",
+            "499.849.362,00",
+            "18/10/2007"
+        ],
+        "id": 102
+    },
+    {
+        "cell": [
+            105,
+            "ST8",
+            "VN000000ST84",
+            "BBG000V0CKG9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Si\u00eau Thanh",
+            "25.720.902,00",
+            "25.720.902,00",
+            "10/12/2007"
+        ],
+        "id": 105
+    },
+    {
+        "cell": [
+            118,
+            "STB",
+            "VN000000STB4",
+            "BBG000D7H4Y5",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n S\u00e0i G\u00f2n Th\u01b0\u01a1ng T\u00edn",
+            "1.885.215.716,00",
+            "1.803.653.429,00",
+            "02/06/2006"
+        ],
+        "id": 118
+    },
+    {
+        "cell": [
+            256,
+            "STG",
+            "VN000000STG3",
+            "BBG000QCZXG6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kho v\u1eadn Mi\u1ec1n Nam",
+            "85.437.879,00",
+            "85.437.879,00",
+            "04/02/2010"
+        ],
+        "id": 256
+    },
+    {
+        "cell": [
+            595,
+            "STK",
+            "VN000000STK5",
+            "BBG00B06W3Q1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1ee3i Th\u1ebf K\u1ef7",
+            "59.937.798,00",
+            "59.937.798,00",
+            "10/09/2015"
+        ],
+        "id": 595
+    },
+    {
+        "cell": [
+            344,
+            "STT",
+            "VN000000STT6",
+            "BBG001PHN5L2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn chuy\u1ec3n S\u00e0i G\u00f2n Tourist",
+            "8.000.000,00",
+            "8.000.000,00",
+            "12/05/2011"
+        ],
+        "id": 344
+    },
+    {
+        "cell": [
+            169,
+            "SVC",
+            "VN000000SVC8",
+            "BBG000QRLCQ3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ecbch v\u1ee5 T\u1ed5ng h\u1ee3p S\u00e0i G\u00f2n",
+            "24.995.573,00",
+            "24.975.507,00",
+            "27/05/2009"
+        ],
+        "id": 169
+    },
+    {
+        "cell": [
+            304,
+            "SVI",
+            "VN000000SVI5",
+            "BBG000GN2XC3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Bao b\u00ec Bi\u00ean H\u00f2a",
+            "12.832.437,00",
+            "12.832.437,00",
+            "05/03/2012"
+        ],
+        "id": 304
+    },
+    {
+        "cell": [
+            297,
+            "SVT",
+            "VN000000SVT2",
+            "BBG0022D5X60",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng ngh\u1ec7 S\u00e0i G\u00f2n Vi\u1ec5n \u0110\u00f4ng",
+            "10.526.937,00",
+            "10.526.937,00",
+            "26/07/2011"
+        ],
+        "id": 297
+    },
+    {
+        "cell": [
+            160,
+            "SZL",
+            "VN000000SZL0",
+            "BBG000BNY437",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Sonadezi Long Th\u00e0nh",
+            "20.000.000,00",
+            "18.190.900,00",
+            "15/08/2008"
+        ],
+        "id": 160
+    },
+    {
+        "cell": [
+            49,
+            "TAC",
+            "VN000000TAC0",
+            "BBG000QMX185",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ea7u th\u1ef1c v\u1eadt T\u01b0\u1eddng An",
+            "33.879.648,00",
+            "33.879.648,00",
+            "06/12/2006"
+        ],
+        "id": 49
+    },
+    {
+        "cell": [
+            148,
+            "TBC",
+            "VN000000TBC8",
+            "BBG000QRLW98",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n Th\u00e1c B\u00e0",
+            "63.500.000,00",
+            "63.500.000,00",
+            "25/09/2009"
+        ],
+        "id": 148
+    },
+    {
+        "cell": [
+            660,
+            "TCD",
+            "VN000000TCD4",
+            "BBG00GQKNWX9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n C\u00f4ng nghi\u1ec7p v\u00e0 V\u1eadn t\u1ea3i",
+            "34.434.034,00",
+            "34.434.034,00",
+            "17/05/2017"
+        ],
+        "id": 660
+    },
+    {
+        "cell": [
+            625,
+            "TCH",
+            "VN000000TCH5",
+            "BBG00DVPC846",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 D\u1ecbch v\u1ee5 T\u00e0i ch\u00ednh Ho\u00e0ng Huy",
+            "362.994.014,00",
+            "353.271.564,00",
+            "15/09/2016"
+        ],
+        "id": 625
+    },
+    {
+        "cell": [
+            210,
+            "TCL",
+            "VN000000TCL7",
+            "BBG000Q2M911",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110ai l\u00fd Giao nh\u1eadn V\u1eadn t\u1ea3i X\u1ebfp d\u1ee1 T\u00e2n C\u1ea3ng",
+            "20.943.893,00",
+            "20.943.893,00",
+            "11/12/2009"
+        ],
+        "id": 210
+    },
+    {
+        "cell": [
+            323,
+            "TCM",
+            "VN000000TCM5",
+            "BBG000TJ58L0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ec7t may - \u0110\u1ea7u t\u01b0 - Th\u01b0\u01a1ng m\u1ea1i Th\u00e0nh C\u00f4ng",
+            "51.653.829,00",
+            "51.553.379,00",
+            "05/10/2007"
+        ],
+        "id": 323
+    },
+    {
+        "cell": [
+            303,
+            "TCO",
+            "VN000000TCO1",
+            "BBG000PGSY38",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i \u0110a ph\u01b0\u01a1ng th\u1ee9c Duy\u00ean H\u1ea3i",
+            "18.711.000,00",
+            "17.315.266,00",
+            "08/02/2012"
+        ],
+        "id": 303
+    },
+    {
+        "cell": [
+            79,
+            "TCR",
+            "VN000000TCR4",
+            "BBG000QN5CR9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00f4ng nghi\u1ec7p G\u1ed1m s\u1ee9 TAICERA",
+            "10.373.190,00",
+            "45.425.142,00",
+            "26/12/2006"
+        ],
+        "id": 79
+    },
+    {
+        "cell": [
+            587,
+            "TCT",
+            "VN000000TCT0",
+            "BBG000KQRJV4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u00e1p treo N\u00fai B\u00e0 T\u00e2y Ninh",
+            "12.788.000,00",
+            "12.788.000,00",
+            "14/01/2016"
+        ],
+        "id": 587
+    },
+    {
+        "cell": [
+            249,
+            "TDC",
+            "VN000000TDC4",
+            "BBG000QSB5B3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kinh doanh v\u00e0 Ph\u00e1t tri\u1ec3n B\u00ecnh D\u01b0\u01a1ng",
+            "100.000.000,00",
+            "100.000.000,00",
+            "16/04/2010"
+        ],
+        "id": 249
+    },
+    {
+        "cell": [
+            654,
+            "TDG",
+            "VN000000TDG5",
+            "BBG00G268MD7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u1ea7u kh\u00ed Th\u00e1i D\u01b0\u01a1ng",
+            "12.900.000,00",
+            "12.900.000,00",
+            "06/06/2017"
+        ],
+        "id": 654
+    },
+    {
+        "cell": [
+            89,
+            "TDH",
+            "VN000000TDH3",
+            "BBG000QGMH85",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n Nh\u00e0 Th\u1ee7 \u0110\u1ee9c",
+            "81.634.927,00",
+            "81.634.927,00",
+            "23/11/2006"
+        ],
+        "id": 89
+    },
+    {
+        "cell": [
+            283,
+            "TDW",
+            "VN000000TDW2",
+            "BBG0016TLPP1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n C\u1ea5p n\u01b0\u1edbc Th\u1ee7 \u0110\u1ee9c",
+            "8.500.000,00",
+            "8.500.000,00",
+            "17/09/2010"
+        ],
+        "id": 283
+    },
+    {
+        "cell": [
+            690,
+            "TEG",
+            "VN000000TEG3",
+            "BBG00BNVD569",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Tecgroup",
+            "17.999.998,00",
+            "17.999.998,00",
+            "28/12/2017"
+        ],
+        "id": 690
+    },
+    {
+        "cell": [
+            350,
+            "THG",
+            "VN000000THG6",
+            "BBG001XQ0HG8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 X\u00e2y d\u1ef1ng Ti\u1ec1n Giang",
+            "11.999.907,00",
+            "11.999.907,00",
+            "28/04/2011"
+        ],
+        "id": 350
+    },
+    {
+        "cell": [
+            646,
+            "THI",
+            "VN000000THI2",
+            "BBG00GGR5QS4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Thi\u1ebft B\u1ecb \u0110i\u1ec7n",
+            "48.800.000,00",
+            "48.800.000,00",
+            "14/04/2017"
+        ],
+        "id": 646
+    },
+    {
+        "cell": [
+            218,
+            "TIE",
+            "VN000000TIE9",
+            "BBG000PXSNF2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n TIE",
+            "9.569.900,00",
+            "9.569.900,00",
+            "16/11/2009"
+        ],
+        "id": 218
+    },
+    {
+        "cell": [
+            605,
+            "TIP",
+            "VN000000TIP5",
+            "BBG00CG5Y5W0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n Khu C\u00f4ng nghi\u1ec7p T\u00edn Ngh\u0129a",
+            "26.003.143,00",
+            "26.003.143,00",
+            "09/03/2016"
+        ],
+        "id": 605
+    },
+    {
+        "cell": [
+            220,
+            "TIX",
+            "VN000000TIX9",
+            "BBG000PXMLY1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1ea3n xu\u1ea5t Kinh doanh XNK D\u1ecbch v\u1ee5 v\u00e0 \u0110\u1ea7u t\u01b0 T\u00e2n B\u00ecnh",
+            "26.400.000,00",
+            "26.400.000,00",
+            "17/11/2009"
+        ],
+        "id": 220
+    },
+    {
+        "cell": [
+            682,
+            "TLD",
+            "VN000000TLD5",
+            "BBG00JDRR4H8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 X\u00e2y d\u1ef1ng v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb Th\u0103ng Long",
+            "18.000.000,00",
+            "18.000.000,00",
+            "29/11/2017"
+        ],
+        "id": 682
+    },
+    {
+        "cell": [
+            244,
+            "TLG",
+            "VN000000TLG8",
+            "BBG000QBPNQ0",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Thi\u00ean Long",
+            "50.556.256,00",
+            "50.556.256,00",
+            "02/02/2010"
+        ],
+        "id": 244
+    },
+    {
+        "cell": [
+            245,
+            "TLH",
+            "VN000000TLH6",
+            "BBG000QHNX96",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Th\u00e9p Ti\u1ebfn L\u00ean",
+            "92.962.313,00",
+            "91.502.313,00",
+            "04/03/2010"
+        ],
+        "id": 245
+    },
+    {
+        "cell": [
+            167,
+            "TMP",
+            "VN000000TMP7",
+            "BBG000DBGXX4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n Th\u00e1c M\u01a1",
+            "70.000.000,00",
+            "70.000.000,00",
+            "08/06/2009"
+        ],
+        "id": 167
+    },
+    {
+        "cell": [
+            9,
+            "TMS",
+            "VN000000TMS1",
+            "BBG000MB9N73",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Transimex",
+            "34.564.342,00",
+            "34.552.723,00",
+            "02/08/2000"
+        ],
+        "id": 9
+    },
+    {
+        "cell": [
+            207,
+            "TMT",
+            "VN000000TMT9",
+            "BBG000Q6C334",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u00d4 t\u00f4 TMT",
+            "37.287.680,00",
+            "36.877.980,00",
+            "15/01/2010"
+        ],
+        "id": 207
+    },
+    {
+        "cell": [
+            82,
+            "TNA",
+            "VN000000TNA7",
+            "BBG000CXD179",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u01b0\u01a1ng m\u1ea1i Xu\u1ea5t nh\u1eadp kh\u1ea9u Thi\u00ean Nam",
+            "12.592.167,00",
+            "12.247.213,00",
+            "04/05/2005"
+        ],
+        "id": 82
+    },
+    {
+        "cell": [
+            173,
+            "TNC",
+            "VN000000TNC3",
+            "BBG000DW4B05",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su Th\u1ed1ng Nh\u1ea5t",
+            "19.250.000,00",
+            "19.250.000,00",
+            "07/08/2007"
+        ],
+        "id": 173
+    },
+    {
+        "cell": [
+            657,
+            "TNI",
+            "VN000000TNI0",
+            "BBG00GBHZSF8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n Th\u00e0nh Nam",
+            "21.000.000,00",
+            "52.500.000,00",
+            "22/05/2017"
+        ],
+        "id": 657
+    },
+    {
+        "cell": [
+            234,
+            "TNT",
+            "VN000000TNT7",
+            "BBG000QXTX77",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u00e0i Nguy\u00ean",
+            "25.500.000,00",
+            "25.500.000,00",
+            "14/05/2010"
+        ],
+        "id": 234
+    },
+    {
+        "cell": [
+            710,
+            "TPB",
+            "VN000000TPB0",
+            "BBG00KFL4BS3",
+            "Ng\u00e2n h\u00e0ng Th\u01b0\u01a1ng m\u1ea1i C\u1ed5 ph\u1ea7n Ti\u00ean Phong",
+            "555.000.000,00",
+            "555.000.000,00",
+            "22/03/2018"
+        ],
+        "id": 710
+    },
+    {
+        "cell": [
+            108,
+            "TPC",
+            "VN000000TPC8",
+            "BBG000BQFGH9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Nh\u1ef1a T\u00e2n \u0110\u1ea1i H\u01b0ng",
+            "24.430.596,00",
+            "21.268.956,00",
+            "20/11/2007"
+        ],
+        "id": 108
+    },
+    {
+        "cell": [
+            184,
+            "TRA",
+            "VN000000TRA8",
+            "BBG000JVVR33",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n TRAPHACO",
+            "41.453.673,00",
+            "41.450.540,00",
+            "12/11/2008"
+        ],
+        "id": 184
+    },
+    {
+        "cell": [
+            124,
+            "TRC",
+            "VN000000TRC4",
+            "BBG000BYJ1C6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Cao su T\u00e2y Ninh",
+            "30.000.000,00",
+            "29.125.000,00",
+            "17/07/2007"
+        ],
+        "id": 124
+    },
+    {
+        "cell": [
+            87,
+            "TS4",
+            "VN000000TS43",
+            "BBG000BTBDD8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y s\u1ea3n s\u1ed1 4",
+            "16.160.646,00",
+            "16.051.594,00",
+            "01/07/2002"
+        ],
+        "id": 87
+    },
+    {
+        "cell": [
+            125,
+            "TSC",
+            "VN000000TSC2",
+            "BBG000TGKR64",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadt t\u01b0 K\u1ef9 thu\u1eadt N\u00f4ng nghi\u1ec7p C\u1ea7n Th\u01a1",
+            "147.648.084,00",
+            "147.648.084,00",
+            "24/09/2007"
+        ],
+        "id": 125
+    },
+    {
+        "cell": [
+            257,
+            "TTF",
+            "VN000000TTF3",
+            "BBG000TFT0R3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u1eadp \u0111o\u00e0n K\u1ef9 ngh\u1ec7 G\u1ed7 Tr\u01b0\u1eddng Th\u00e0nh",
+            "214.607.840,00",
+            "214.607.376,00",
+            "01/02/2008"
+        ],
+        "id": 257
+    },
+    {
+        "cell": [
+            267,
+            "TV1",
+            "VN000000TV14",
+            "BBG001657S64",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n T\u01b0 v\u1ea5n X\u00e2y d\u1ef1ng \u0110i\u1ec7n 1",
+            "26.691.319,00",
+            "26.691.319,00",
+            "14/09/2010"
+        ],
+        "id": 267
+    },
+    {
+        "cell": [
+            577,
+            "TVS",
+            "VN000000TVS2",
+            "BBG007TK6KJ7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n Thi\u00ean Vi\u1ec7t",
+            "57.871.041,00",
+            "55.045.041,00",
+            "25/12/2014"
+        ],
+        "id": 577
+    },
+    {
+        "cell": [
+            649,
+            "TVT",
+            "VN000000TVT0",
+            "BBG00H2CNJ06",
+            "T\u1ed5ng C\u00f4ng ty Vi\u1ec7t Th\u1eafng - CTCP",
+            "21.000.000,00",
+            "21.000.000,00",
+            "27/06/2017"
+        ],
+        "id": 649
+    },
+    {
+        "cell": [
+            64,
+            "TYA",
+            "VN000000TYA4",
+            "BBG000DCXFT7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u00e2y v\u00e0 C\u00e1p \u0111i\u1ec7n Taya Vi\u1ec7t Nam",
+            "6.134.773,00",
+            "30.680.582,00",
+            "12/02/2005"
+        ],
+        "id": 64
+    },
+    {
+        "cell": [
+            261,
+            "UDC",
+            "VN000000UDC2",
+            "BBG000R4BZZ3",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng v\u00e0 Ph\u00e1t tri\u1ec3n \u0110\u00f4 th\u1ecb t\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "35.000.000,00",
+            "34.706.000,00",
+            "28/06/2010"
+        ],
+        "id": 261
+    },
+    {
+        "cell": [
+            314,
+            "UIC",
+            "VN000000UIC1",
+            "BBG000TW05T4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n Nh\u00e0 v\u00e0 \u0110\u00f4 th\u1ecb IDICO",
+            "8.000.000,00",
+            "8.000.000,00",
+            "31/10/2007"
+        ],
+        "id": 314
+    },
+    {
+        "cell": [
+            564,
+            "VAF",
+            "VN000000VAF9",
+            "BBG009BCLYM9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e2n l\u00e2n Nung ch\u1ea3y V\u0103n \u0110i\u1ec3n",
+            "37.665.348,00",
+            "37.665.348,00",
+            "21/05/2015"
+        ],
+        "id": 564
+    },
+    {
+        "cell": [
+            188,
+            "VCB",
+            "VN000000VCB4",
+            "BBG000BM8HL9",
+            "Ng\u00e2n h\u00e0ng TMCP Ngo\u1ea1i Th\u01b0\u01a1ng Vi\u1ec7t Nam",
+            "3.597.768.575,00",
+            "3.597.768.575,00",
+            "12/06/2009"
+        ],
+        "id": 188
+    },
+    {
+        "cell": [
+            240,
+            "VCF",
+            "VN000000VCF5",
+            "BBG001F4FT84",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n VINACAF\u00c9 Bi\u00ean H\u00f2a",
+            "26.579.135,00",
+            "26.579.135,00",
+            "21/01/2011"
+        ],
+        "id": 240
+    },
+    {
+        "cell": [
+            671,
+            "VCI",
+            "VN000000VCI9",
+            "BBG0073XTVS8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n B\u1ea3n Vi\u1ec7t",
+            "120.000.000,00",
+            "119.996.000,00",
+            "30/06/2017"
+        ],
+        "id": 671
+    },
+    {
+        "cell": [
+            658,
+            "VDP",
+            "VN000000VDP2",
+            "BBG00H5S8Y48",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n D\u01b0\u1ee3c ph\u1ea9m Trung \u01af\u01a1ng Vidipha",
+            "12.782.904,00",
+            "12.762.504,00",
+            "27/07/2017"
+        ],
+        "id": 658
+    },
+    {
+        "cell": [
+            665,
+            "VDS",
+            "VN000000VDS6",
+            "BBG000VVXNW4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n R\u1ed3ng Vi\u1ec7t",
+            "91.000.000,00",
+            "91.000.000,00",
+            "29/06/2017"
+        ],
+        "id": 665
+    },
+    {
+        "cell": [
+            201,
+            "VFG",
+            "VN000000VFG6",
+            "BBG000Q13YK8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Kh\u1eed tr\u00f9ng Vi\u1ec7t Nam",
+            "23.770.189,00",
+            "23.768.189,00",
+            "11/12/2009"
+        ],
+        "id": 201
+    },
+    {
+        "cell": [
+            107,
+            "VHC",
+            "VN000000VHC1",
+            "BBG000V0W6Y8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u0129nh Ho\u00e0n",
+            "92.403.943,00",
+            "92.301.883,00",
+            "07/12/2007"
+        ],
+        "id": 107
+    },
+    {
+        "cell": [
+            137,
+            "VHG",
+            "VN000000VHG2",
+            "BBG000V7K1N9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Cao su Qu\u1ea3ng Nam",
+            "150.000.000,00",
+            "150.000.000,00",
+            "09/01/2008"
+        ],
+        "id": 137
+    },
+    {
+        "cell": [
+            100,
+            "VIC",
+            "VN000000VIC9",
+            "BBG000TD3TM8",
+            "T\u1eadp \u0111o\u00e0n VINGROUP - C\u00f4ng ty C\u1ed5 ph\u1ea7n",
+            "2.637.707.954,00",
+            "2.637.707.954,00",
+            "07/09/2007"
+        ],
+        "id": 100
+    },
+    {
+        "cell": [
+            133,
+            "VID",
+            "VN000000VID7",
+            "BBG000QMX6H4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n Th\u01b0\u01a1ng m\u1ea1i Vi\u1ec5n \u0110\u00f4ng",
+            "25.522.767,00",
+            "25.522.767,00",
+            "12/07/2006"
+        ],
+        "id": 133
+    },
+    {
+        "cell": [
+            41,
+            "VIP",
+            "VN000000VIP1",
+            "BBG000QGPMH1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i X\u0103ng d\u1ea7u VIPCO",
+            "68.470.941,00",
+            "65.470.941,00",
+            "09/11/2006"
+        ],
+        "id": 41
+    },
+    {
+        "cell": [
+            135,
+            "VIS",
+            "VN000000VIS5",
+            "BBG000QMX9P9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u00e9p Vi\u1ec7t - \u00dd",
+            "73.830.393,00",
+            "73.830.393,00",
+            "07/12/2006"
+        ],
+        "id": 135
+    },
+    {
+        "cell": [
+            648,
+            "VJC",
+            "VN000000VJC7",
+            "BBG00FPBTP52",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n H\u00e0ng kh\u00f4ng VietJet",
+            "451.343.284,00",
+            "451.343.284,00",
+            "06/02/2017"
+        ],
+        "id": 648
+    },
+    {
+        "cell": [
+            269,
+            "VMD",
+            "VN000000VMD9",
+            "BBG0014VX2F7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Y D\u01b0\u1ee3c ph\u1ea9m Vimedimex",
+            "15.440.268,00",
+            "15.440.268,00",
+            "17/08/2010"
+        ],
+        "id": 269
+    },
+    {
+        "cell": [
+            674,
+            "VND",
+            "VN000000VND7",
+            "BBG000QK2110",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ch\u1ee9ng kho\u00e1n VNDIRECT",
+            "154.998.165,00",
+            "150.997.785,00",
+            "10/08/2017"
+        ],
+        "id": 674
+    },
+    {
+        "cell": [
+            309,
+            "VNE",
+            "VN000000VNE5",
+            "BBG000RTSN50",
+            "T\u1ed5ng C\u00f4ng ty C\u1ed5 ph\u1ea7n X\u00e2y d\u1ef1ng \u0110i\u1ec7n Vi\u1ec7t Nam",
+            "90.432.953,00",
+            "81.934.033,00",
+            "01/08/2007"
+        ],
+        "id": 309
+    },
+    {
+        "cell": [
+            198,
+            "VNG",
+            "VN000000VNG0",
+            "BBG000Q08635",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Du l\u1ecbch Th\u00e0nh Th\u00e0nh C\u00f4ng",
+            "75.205.000,00",
+            "75.205.000,00",
+            "30/11/2009"
+        ],
+        "id": 198
+    },
+    {
+        "cell": [
+            223,
+            "VNL",
+            "VN000000VNL0",
+            "BBG000NX0H67",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Logistics Vinalink",
+            "9.000.000,00",
+            "9.000.000,00",
+            "10/08/2009"
+        ],
+        "id": 223
+    },
+    {
+        "cell": [
+            128,
+            "VNM",
+            "VN000000VNM8",
+            "BBG000BF6NK4",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n S\u1eefa Vi\u1ec7t Nam",
+            "1.451.453.429,00",
+            "1.451.263.614,00",
+            "28/12/2005"
+        ],
+        "id": 128
+    },
+    {
+        "cell": [
+            161,
+            "VNS",
+            "VN000000VNS5",
+            "BBG000HG0KH2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u00c1nh D\u01b0\u01a1ng Vi\u1ec7t Nam",
+            "67.859.192,00",
+            "67.859.192,00",
+            "23/07/2008"
+        ],
+        "id": 161
+    },
+    {
+        "cell": [
+            268,
+            "VOS",
+            "VN000000VOS3",
+            "BBG0015NLBK1",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i Bi\u1ec3n Vi\u1ec7t Nam",
+            "140.000.000,00",
+            "140.000.000,00",
+            "30/08/2010"
+        ],
+        "id": 268
+    },
+    {
+        "cell": [
+            676,
+            "VPB",
+            "VN000000VPB6",
+            "BBG00GT7TTC9",
+            "Ng\u00e2n h\u00e0ng TMCP Vi\u1ec7t Nam Th\u1ecbnh V\u01b0\u1ee3ng",
+            "1.497.403.415,00",
+            "1.497.403.415,00",
+            "08/08/2017"
+        ],
+        "id": 676
+    },
+    {
+        "cell": [
+            696,
+            "VPD",
+            "VN000000VPD2",
+            "BBG00CMXYXQ8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00e1t tri\u1ec3n \u0110i\u1ec7n l\u1ef1c Vi\u1ec7t Nam",
+            "102.493.098,00",
+            "102.493.098,00",
+            "25/12/2017"
+        ],
+        "id": 696
+    },
+    {
+        "cell": [
+            679,
+            "VPG",
+            "VN000000VPG5",
+            "BBG00HK82J35",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i Xu\u1ea5t nh\u1eadp kh\u1ea9u Vi\u1ec7t Ph\u00e1t",
+            "20.000.000,00",
+            "20.000.000,00",
+            "27/12/2017"
+        ],
+        "id": 679
+    },
+    {
+        "cell": [
+            141,
+            "VPH",
+            "VN000000VPH3",
+            "BBG000P65NG5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1ea1n Ph\u00e1t H\u01b0ng",
+            "63.579.700,00",
+            "63.579.700,00",
+            "31/08/2009"
+        ],
+        "id": 141
+    },
+    {
+        "cell": [
+            74,
+            "VPK",
+            "VN000000VPK7",
+            "BBG000QLVBP8",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Bao b\u00ec D\u1ea7u th\u1ef1c v\u1eadt",
+            "14.998.817,00",
+            "14.998.185,00",
+            "16/11/2006"
+        ],
+        "id": 74
+    },
+    {
+        "cell": [
+            593,
+            "VPS",
+            "VN000000VPS0",
+            "BBG009RT5X54",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Thu\u1ed1c s\u00e1t tr\u00f9ng Vi\u1ec7t Nam",
+            "24.460.792,00",
+            "24.460.792,00",
+            "04/08/2015"
+        ],
+        "id": 593
+    },
+    {
+        "cell": [
+            296,
+            "VRC",
+            "VN000000VRC0",
+            "BBG000PYVR12",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n B\u1ea5t \u0111\u1ed9ng s\u1ea3n v\u00e0 \u0110\u1ea7u t\u01b0 VRC",
+            "50.000.000,00",
+            "50.000.000,00",
+            "19/07/2010"
+        ],
+        "id": 296
+    },
+    {
+        "cell": [
+            683,
+            "VRE",
+            "VN000000VRE6",
+            "BBG00HY225V2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Vincom Retail",
+            "1.901.078.733,00",
+            "1.901.078.733,00",
+            "25/10/2017"
+        ],
+        "id": 683
+    },
+    {
+        "cell": [
+            109,
+            "VSC",
+            "VN000000VSC8",
+            "BBG000V1Z2S9",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Container Vi\u1ec7t Nam",
+            "50.112.304,00",
+            "50.112.304,00",
+            "12/12/2007"
+        ],
+        "id": 109
+    },
+    {
+        "cell": [
+            130,
+            "VSH",
+            "VN000000VSH7",
+            "BBG000KLZ2K5",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Th\u1ee7y \u0111i\u1ec7n V\u0129nh S\u01a1n S\u00f4ng Hinh",
+            "206.241.246,00",
+            "206.241.246,00",
+            "28/06/2006"
+        ],
+        "id": 130
+    },
+    {
+        "cell": [
+            315,
+            "VSI",
+            "VN000000VSI5",
+            "BBG001BLD8V2",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n \u0110\u1ea7u t\u01b0 v\u00e0 X\u00e2y d\u1ef1ng C\u1ea5p tho\u00e1t n\u01b0\u1edbc",
+            "13.200.000,00",
+            "13.199.997,00",
+            "01/12/2010"
+        ],
+        "id": 315
+    },
+    {
+        "cell": [
+            69,
+            "VTB",
+            "VN000000VTB8",
+            "BBG000QMXCB7",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n Viettronics T\u00e2n B\u00ecnh",
+            "11.982.050,00",
+            "10.804.520,00",
+            "08/12/2006"
+        ],
+        "id": 69
+    },
+    {
+        "cell": [
+            114,
+            "VTO",
+            "VN000000VTO1",
+            "BBG000TH61W6",
+            "C\u00f4ng ty C\u1ed5 ph\u1ea7n V\u1eadn t\u1ea3i X\u0103ng d\u1ea7u VITACO",
+            "79.866.666,00",
+            "78.866.666,00",
+            "01/10/2007"
+        ],
+        "id": 114
+    }
+]

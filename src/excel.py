@@ -32,21 +32,23 @@ def export(params):
         for title_element in title_elements:
             titles.append(title_element.contents[0])
 
-        f = csv.writer(codecs.open(file_path, 'w', 'utf-8-sig'))
-        f.writerow(titles)
+        # f = csv.writer(codecs.open(file_path, 'w', 'utf-8-sig')) # LỖI Ở ĐÂY MÀ RA
+        with codecs.open(file_path, 'w', 'utf-8-sig') as fp:
+            f = csv.writer(fp)
+            f.writerow(titles)
 
-        content = soup.find(id=params['table_content']).find('tbody').find_all('tr')
-        total_kl = []
-        for trElement in content:
-            tdValues = []
-            tdElements = trElement.find_all('td')
-            total_kl.append(float(tdElements[-1].contents[0].replace(',', '')))
+            content = soup.find(id=params['table_content']).find('tbody').find_all('tr')
+            total_kl = []
+            for trElement in content:
+                tdValues = []
+                tdElements = trElement.find_all('td')
+                total_kl.append(float(tdElements[-1].contents[0].replace(',', '')))
 
-            for tdElement in tdElements:
-                content = tdElement.contents
-                if len(content) > 0:
-                    tdValues.append(tdElement.contents[0])
-            f.writerow(tdValues)
+                for tdElement in tdElements:
+                    content = tdElement.contents
+                    if len(content) > 0:
+                        tdValues.append(tdElement.contents[0])
+                f.writerow(tdValues)
 
         if len(total_kl) > 0 and sum(total_kl) / float(len(total_kl)) < 1000:
             os.remove(file_path)

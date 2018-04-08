@@ -9,6 +9,11 @@ def slope(df):
     lr.fit(x, df)
     return(lr)
 
+def angle_slope(lr):
+    # angle in degree of slope
+    slope_in_degree = np.arctan(lr.coef_[0])*180/np.pi
+    return(slope_in_degree)
+
 def plot_regression_line(x, y, lr):
     fig, ax = plt.subplots()
     ax.scatter(x, y, color = "red")

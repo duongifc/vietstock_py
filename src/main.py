@@ -14,6 +14,8 @@ hose_vnm_params = {
 # excel.export(hose_vnm_params)
 
 #####################################################################
+begin_date = '02/26/18' # Month/Day/Year
+end_date = '03/26/18'
 
 with open('files/companies.json', encoding="utf-8-sig") as f:
     companies = json.load(f)
@@ -25,8 +27,8 @@ for item in companies:
     excel.export({
         'exchange_name': Constants.EXCHANGE_HOSE,
         'company_code': code,
-        'from_date': '02/26/18',
-        'to_date': '03/26/18',
+        'from_date': begin_date,
+        'to_date': end_date,
         'table_title': 'Finance_Table_Title',
         'table_content': 'MatchingHoseResult'
     })

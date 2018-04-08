@@ -18,8 +18,10 @@ hose_vnm_params = {
 with open('files/companies.json', encoding="utf-8-sig") as f:
     companies = json.load(f)
 
+list_company = open('files/'+"list.txt", 'w') # save all company names in text files
 for item in companies:
     code = item['cell'][1]
+    list_company.write(code + '\n')
     excel.export({
         'exchange_name': Constants.EXCHANGE_HOSE,
         'company_code': code,
@@ -28,3 +30,4 @@ for item in companies:
         'table_title': 'Finance_Table_Title',
         'table_content': 'MatchingHoseResult'
     })
+list_company.close()

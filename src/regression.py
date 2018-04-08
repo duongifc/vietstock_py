@@ -9,8 +9,8 @@ def slope(df):
     lr.fit(x, df)
     return(lr)
 
+# angle in degree of slope
 def angle_slope(lr):
-    # angle in degree of slope
     slope_in_degree = np.arctan(lr.coef_[0])*180/np.pi
     return(slope_in_degree)
 

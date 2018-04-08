@@ -30,7 +30,7 @@ def export(params):
         title_elements = soup.find(class_=params['table_title']).find_all('b')
         titles = []
         for title_element in title_elements:
-            titles.append(title_element.contents[0])
+            titles.append(float(title_element.contents[0].replace(',', '')))
 
         # f = csv.writer(codecs.open(file_path, 'w', 'utf-8-sig')) # LỖI Ở ĐÂY MÀ RA
         with codecs.open(file_path, 'w', 'utf-8-sig') as fp:

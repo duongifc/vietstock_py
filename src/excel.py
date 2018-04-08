@@ -32,7 +32,6 @@ def export(params):
         for title_element in title_elements:
             titles.append(float(title_element.contents[0].replace(',', '')))
 
-        # f = csv.writer(codecs.open(file_path, 'w', 'utf-8-sig')) # LỖI Ở ĐÂY MÀ RA
         with codecs.open(file_path, 'w', 'utf-8-sig') as fp:
             f = csv.writer(fp)
             f.writerow(titles)

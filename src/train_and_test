@@ -27,10 +27,12 @@ def scores(models, X, y):
         acc = accuracy_score(y, y_pred)
         f1 = f1_score(y, y_pred)
         auc = roc_auc_score(y, y_pred)
+        print(model.__class__.__name__)
         print("Accuracy Score: {0:0.2f} %".format(acc * 100))
         print("F1 Score: {0:0.4f}".format(f1))
         print("Area Under ROC Curve Score: {0:0.4f}".format(auc))
-
+        print("\n")
+        
 X_train, X_test, y_train, y_test = train_test_split(data, target, test_size=0.25, shuffle=False)
 
 models = [

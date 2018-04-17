@@ -54,7 +54,7 @@ def export(params):
                         tdValues.append(tdElement.contents[0].replace(',', ''))
                 f.writerow(tdValues)
 
-        if len(total_kl) > 0 and sum(total_kl) / float(len(total_kl)) < 1000:
+        if len(total_kl) > 0 and sum(total_kl) / float(len(total_kl)) > 1000:
             os.remove(file_path)
     except ValueError:
         print('Phắc >"<, có lỗi với file ' + file_name)

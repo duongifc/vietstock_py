@@ -30,7 +30,12 @@ def export(params):
         title_elements = soup.find(class_=params['table_title']).find_all('b')
         titles = []
         for title_element in title_elements:
-            titles.append(float(title_element.contents[0].replace(',', '')))
+            if len(title_element.contents) > 0:
+                elementValue = title_element.contents[0]
+                if elementValue.isdigit():
+                    titles.append(float(title_element.contents[0].replace(',', '')))
+                else:
+                    titles.append(title_element.next)
 
         with codecs.open(file_path, 'w', 'utf-8-sig') as fp:
             f = csv.writer(fp)
@@ -46,10 +51,11 @@ def export(params):
                 for tdElement in tdElements:
                     content = tdElement.contents
                     if len(content) > 0:
-                        tdValues.append(tdElement.contents[0])
+                        tdValues.append(tdElement.contents[0].replace(',', ''))
                 f.writerow(tdValues)
 
         if len(total_kl) > 0 and sum(total_kl) / float(len(total_kl)) < 1000:
             os.remove(file_path)
     except ValueError:
         print('Phắc >"<, có lỗi với file ' + file_name)
+        print(ValueError)

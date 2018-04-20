@@ -1,3 +1,6 @@
+# If the price is sideway, we expect the slope to be close to 0, or the angle
+# of the slope small, say < 10 degree
+
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import matplotlib.pyplot as plt

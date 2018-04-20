@@ -1,5 +1,6 @@
 # Test T+3 strategy: supervised (classification) problem: label = 1 if T+3 price > T + 0 price, = 0 otherwise
 # Variables: TA indicators + fundamental factors from vietstock
+# Why not T+1 or T+4: tried and T+3 seems to work best
 
 import numpy as np
 import pandas as pd
@@ -67,6 +68,7 @@ m = np.mean(X_train)
 sd = np.std(X_train)
 X_train = (X_train - m)/sd
 X_test = (X_test - m)/sd
+test_input = (test_input - m)/sd
 
 # loop search for tuning parameters
 ensemble = [RandomForestClassifier(n_estimators=20),
@@ -105,12 +107,11 @@ for model in models:
 scores(models, X_test, y_test)
 
 #----------------------------------------------TESTING
-test_input = (test_input - m)/sd
-
-bagging = BaggingClassifier(n_estimators=20, random_state=101)
-bagging.fit(X_train, y_train)
-y_pred = bagging.predict(test_input)
-f1_score(target_test, y_pred)
+rf = RandomForestClassifier(n_estimators=20, random_state=4)
+rf.fit(X_train, y_train)
+y_pred = rf.predict(test_input)
+print(f1_score(target_test, y_pred))
+print(accuracy_score(target_test, y_pred))
 
 #----------------------------------------------COMMENT
-# This naive model doesnt work well.
+# This naive model is correct about 55% on the test set, which is just a bit better a random guess.

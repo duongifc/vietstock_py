@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2515ddb1579e0a199be5d8b6e9c7e9d632d90531fc399a3d3031e5b817c51329"
+            "sha256": "33a0ec7c8e3bae6f62dd618f847de92ece20e2bd4efb496927e2524b9c7b8df8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,10 +18,11 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:14131608ad2fd56836d33a71ee60fa1c82bc9d2c8d98b7bdbc631fe1b3cd1296",
-                "sha256:edbc3f203427eef571f79a7692bb160a2b0f7ccaa31953e99bd17e307cf63f7d"
+                "sha256:35824b4c3a97115964b408844d64aa14db1cc518f6562e8d7261699d1350a9e3",
+                "sha256:4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
             ],
-            "version": "==2018.1.18"
+            "index": "pypi",
+            "version": "==2022.12.7"
         },
         "chardet": {
             "hashes": [
@@ -44,13 +45,6 @@
             ],
             "index": "pypi",
             "version": "==2.18.4"
-        },
-        "unicodecsv": {
-            "hashes": [
-                "sha256:018c08037d48649a0412063ff4eda26eaa81eff1546dbffa51fa5293276ff7fc"
-            ],
-            "index": "pypi",
-            "version": "==0.14.1"
         },
         "urllib3": {
             "hashes": [
